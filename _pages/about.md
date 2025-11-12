@@ -33,7 +33,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
 # 📝 Publications 
 
-- [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/))
+- [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
 
   Wei Zhang, Siyu Yi, **Lezhi Chen**, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 

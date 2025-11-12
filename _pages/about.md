@@ -24,8 +24,8 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 **Email:** chenlezhi@stu.scu.edu.cn
 
 # Research Interests
-- AI4Science, AI for Biology
-- Data Mining, Graph Representation Learning, Graph Neural Networks
+- AI4Science, Computational System Biology
+- Data Mining, Graph Representation Learning
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

@@ -28,8 +28,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 - Data Mining, Graph Representation Learning
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **AAAI 2026** !!
 
 # 📝 Publications 
 
@@ -46,5 +45,4 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 - *2024.12 - 2025.11 (now)*, Data Intelligence and Computing Art Lab (DICALab), **AI4Science** (Supervisor: Wei Ju, Siyu Yi)
 
 # 🎖 Honors and Awards
-- *2021.10*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*, Individual Second-class Scholarship, Sichuan University

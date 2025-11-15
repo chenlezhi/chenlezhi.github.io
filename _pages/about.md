@@ -43,7 +43,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 - *2023.09 - 2027.06 (now)*, B.S. Candidate in Automation, College of Electrical Engineering, Sichuan University
 
 # 💻 Internships
-- *2024.12 - 2025.11 (now)*, Data Intelligence and Computing Art Lab (DICALab), College of Computer Science, Sichuan University (Supervisor: [Wei Ju](https://juweipku.github.io/), [Siyu Yi](https://yisiyu95.github.io/))
+- *2024.12 - 2025.11 (now)*, College of Computer Science, Sichuan University (Supervisor: [Wei Ju](https://juweipku.github.io/), [Siyu Yi](https://yisiyu95.github.io/))
 
 # 🎖 Honors and Awards
 - *2025.10*, Individual Second-Class Scholarship, Sichuan University

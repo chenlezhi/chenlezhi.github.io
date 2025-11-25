@@ -46,4 +46,4 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
   **AAAI 2026**, CCF-A
 
 # 🎖 Honors and Awards
-- *2025.10*, Individual Second-Class Scholarship, Sichuan University
+- *2025.10*, Individual Second-class Scholarship, Sichuan University

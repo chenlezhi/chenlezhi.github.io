@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lezhi Chen (陈乐知) is currently an undergraduate student at the College of Electrical Engineering, Sichuan University, expected to graduate in 2027. His current research interests lie primarily on **graph representation learning** and **AI4science** such as bioinformatics/computational systems biology (spatial transcriptomics, single-cell multi-omics, RNA velocity, virtual cell). He is also interested in statistical physics, complex networks, statistical theory and methods. You can also visit google scholar <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+Lezhi Chen (陈乐知) is currently an undergraduate student at the College of Electrical Engineering, Sichuan University, expected to graduate in 2027. His current research interests lie primarily on **graph representation learning** and **AI4science** such as bioinformatics/computational system biology (spatial transcriptomics, multi-omics, RNA velocity, virtual cell). He is also interested in statistical physics, complex networks, statistical theory and methods. You can also visit his google scholar <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> for more information.
 
-陈乐知，四川大学本科生，专业为自动化，预计于2027年毕业。他当前的研究兴趣主要集中在**图表示学习**和**AI4Science**领域，如生物信息学/计算系统生物学（包括空间转录组学、单细胞多组学、轨迹推断和虚拟细胞）。此外，他还对统计物理、复杂网络以及统计理论与方法感兴趣。
+陈乐知，四川大学本科生，预计于2027年毕业。他还是四川大学计算机学院DICALab的实习生，在琚玮老师和易思宇老师指导下进行研究。他当前的研究兴趣主要集中在**图表示学习**和**AI4Science**领域，具体如如生物信息学/计算系统生物学（包括空间转录组学、多组学、轨迹推断和虚拟细胞）。此外，他还对统计物理、复杂网络以及统计理论与方法感兴趣。日常生活中，他喜欢ACGN。如果你对上述领域感兴趣，非常欢迎随时联系，我非常喜欢和不同背景的科研工作者交流学习！
 
 **Email:** chenlezhi@stu.scu.edu.cn
 
@@ -31,6 +31,12 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **AAAI 2026** !!
 
+# 📖 Educations
+- *2023.09 - 2027.06*, B.S. in Automation, College of Electrical Engineering, Sichuan University
+
+# 💻 Internships
+- *2024.12 - 2026.02*, College of Computer Science, Sichuan University (Supervised by: Prof.[Wei Ju](https://juweipku.github.io/), Prof.[Siyu Yi](https://yisiyu95.github.io/))
+
 # 📝 Publications 
 
 - [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
@@ -38,12 +44,6 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
   Wei Zhang, Siyu Yi, **Lezhi Chen**, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 
   **AAAI 2026**, CCF-A
-
-# 📖 Educations
-- *2023.09 - 2027.06 (now)*, B.S. Candidate in Automation, College of Electrical Engineering, Sichuan University
-
-# 💻 Internships
-- *2024.12 - 2025.11 (now)*, College of Computer Science, Sichuan University (Supervised by: [Wei Ju](https://juweipku.github.io/), [Siyu Yi](https://yisiyu95.github.io/))
 
 # 🎖 Honors and Awards
 - *2025.10*, Individual Second-Class Scholarship, Sichuan University

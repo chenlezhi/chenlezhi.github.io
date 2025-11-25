@@ -43,7 +43,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
   Wei Zhang, Siyu Yi, **Lezhi Chen**, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 
-  **AAAI 2026**, CCF-A
+  **AAAI 2026**, <span style="color:red;">CCF-A</span>
 
 # 🎖 Honors and Awards
 - *2025.10*, Individual Second-class Scholarship, Sichuan University

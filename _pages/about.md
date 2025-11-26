@@ -26,7 +26,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 # Research Interests
 - AI4Science, Computational System Biology
 - Data Mining, Graph Representation Learning
-- Statistics, Statistical Physics
+- Statistics, Statistical Physics, Complex Networks
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **AAAI 2026** !!

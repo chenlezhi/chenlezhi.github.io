@@ -45,7 +45,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
   submitted to **Information Fusion**, <span style="color:red;">中科院一区, IF=15.5</span>
 
-- [stUAI: Uncertainty-Aware Clustering of Spatially Resolved Transcriptomics Data](https://chenlezhi.github.io/)
+- [stUAI: Uncertainty-Aware Clustering of Spatially Resolved Transcriptomics Data]([https://chenlezhi.github.io/](https://openreview.net/pdf?id=WEo2vaBFaH))
 
   Wei Ju, **Lezhi Chen**, Siyu Yi, Wei Zhang, Yifan Wang, Yanran Zhu, Ziyue Qiao, Jiancheng Lv
 

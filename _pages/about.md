@@ -36,7 +36,9 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
 # 💻 Internships
 - *2024.12 - 2026.02*, College of Computer Science, Sichuan University
+  
   Focus on AI for Spatial and Single-cell Transcriptomics
+  
   Supervised by: Prof.[Wei Ju](https://juweipku.github.io/), Prof.[Siyu Yi](https://yisiyu95.github.io/)
 
 # 📝 Publications 

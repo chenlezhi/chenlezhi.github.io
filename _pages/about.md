@@ -42,6 +42,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
   Supervised by: Prof.[Wei Ju](https://juweipku.github.io/), Prof.[Siyu Yi](https://yisiyu95.github.io/)
 
 # 📝 Publications 
+**2026**
 
 - [MOST: Modularity-guided Domain Identification in Spatial Transcriptomics Data](https://chenlezhi.github.io/)
 

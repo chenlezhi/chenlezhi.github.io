@@ -35,7 +35,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 - *2023.09 - 2027.06*, B.S. in Automation, College of Electrical Engineering, **Sichuan University**
 
 # 💻 Internships
-- *2024.12 - 2026.02*, College of Computer Science, Sichuan University
+- *2024.12 - 2026.02*, College of Computer Science, **Sichuan University**
   
   Focus on AI for Spatial and Single-cell Transcriptomics
   

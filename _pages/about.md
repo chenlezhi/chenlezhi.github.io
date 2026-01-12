@@ -42,11 +42,7 @@ Statistical Physics
 - *2023.09 - 2027.06*, B.S. in Automation, College of Electrical Engineering, **Sichuan University**
 
 # 💻 Internships
-- *2024.12 - 2026.02*, College of Computer Science, **Sichuan University**
-  
-  Focus on AI for Spatial and Single-cell Transcriptomics
-  
-  Supervised by: Prof.[Wei Ju](https://juweipku.github.io/), Prof.[Siyu Yi](https://yisiyu95.github.io/)
+- *2024.12 - 2026.02*, College of Computer Science, **Sichuan University** ( Supervised by: Prof.[Wei Ju](https://juweipku.github.io/), Prof.[Siyu Yi](https://yisiyu95.github.io/))
 
 # 📝 Publications 
 **2026**

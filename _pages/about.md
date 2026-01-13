@@ -59,7 +59,7 @@ Statistical Physics:
 
   submitted to **ICLR 2026**
 
-- [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
+- [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://openreview.net/pdf?id=Wi5LqCUvFt)
 
   Wei Zhang, Siyu Yi, **Lezhi Chen**, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 

@@ -19,7 +19,7 @@ redirect_from:
 
 Lezhi Chen (陈乐知) is currently an undergraduate student at the College of Electrical Engineering, Sichuan University, expected to graduate in 2027. His current research interests lie primarily on <span style="color:purple; font-weight:bold;">graph representation learning</span> and <span style="color:purple; font-weight:bold;">computational biology</span> such as spatial transcriptomics, single-cell multi-omics. He is also very interested in statistical physics, biophysics, complex networks.
 
-陈乐知，四川大学本科生，预计于2027年毕业。他还是四川大学计算机学院的实习生，在[琚玮老师](https://juweipku.github.io/)和[易思宇老师](https://yisiyu95.github.io/)指导下进行研究。他当前的研究兴趣主要集中在<span style="color:purple; font-weight:bold;">图表示学习</span>和<span style="color:purple; font-weight:bold;">计算生物学</span>领域，具体如空间转录组学、单细胞多组学数据降维、整合与分析。此外，他还对统计物理（非线性动力学、随机热力学）、生物物理、复杂网络非常感兴趣（尚在学习中）。日常生活中，他喜欢推galgame，rpg和看动漫。如果你对上述领域感兴趣，非常欢迎随时联系，他非常喜欢和不同背景的科研工作者交流学习！
+陈乐知，四川大学本科生，预计于2027年毕业。他还是四川大学计算机学院的实习生，在[琚玮老师](https://juweipku.github.io/)和[易思宇老师](https://yisiyu95.github.io/)指导下进行研究。他当前的研究兴趣主要集中在<span style="color:purple; font-weight:bold;">图表示学习</span>和<span style="color:purple; font-weight:bold;">计算生物学</span>领域，具体如空间转录组学、单细胞多组学数据降维、整合与分析。此外，他还对统计物理（非线性动力学、随机热力学）、生物物理、复杂网络非常感兴趣（尚在学习中，目前仅为名词党哈哈）。日常生活中，他喜欢推galgame，rpg和看动漫。如果你对上述领域感兴趣，非常欢迎随时联系，他非常喜欢和不同背景的科研工作者交流学习！
 
 **Email:** chenlezhi@stu.scu.edu.cn
 
@@ -29,11 +29,10 @@ Computational Biology:
 - Data Mining, Graph Representation Learning
 - Statistical Theory and Methods
 
-Statistical Physics:
+Statistical Physics: (Still under learning)
 - Biophysics, System Biology
-- Complex Networks
-- Nonlinear Dynamics
-- Stochastic Thermodynamics
+- Complex Networks, Complex System
+- Nonlinear Dynamics, Stochastic Thermodynamics
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **AAAI 2026** !!

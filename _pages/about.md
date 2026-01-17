@@ -44,7 +44,7 @@ Statistical Physics: (Still under learning)
 - *2024.12 - 2026.02*, College of Computer Science, **Sichuan University** (Supervised by: Prof.[Wei Ju](https://juweipku.github.io/), Prof.[Siyu Yi](https://yisiyu95.github.io/))
 
 # 📝 Publications 
-**2026**
+**2025**
 
 - [MOST: Modularity-guided Domain Identification in Spatial Transcriptomics Data](https://chenlezhi.github.io/)
 

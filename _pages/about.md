@@ -43,9 +43,9 @@ Statistical Physics: (Still under learning)
 # 💻 Internships
 - *2024.12 - 2026.02*, College of Computer Science, **Sichuan University**
   
-                       Domain identification in Spatial Transcriptomics
+  Domain identification in Spatial Transcriptomics
   
-                       Supervised by: Prof.[Wei Ju](https://juweipku.github.io/), Prof.[Siyu Yi](https://yisiyu95.github.io/)
+  Supervised by: Prof.[Wei Ju](https://juweipku.github.io/), Prof.[Siyu Yi](https://yisiyu95.github.io/)
 
 # 📝 Publications 
 **2025**

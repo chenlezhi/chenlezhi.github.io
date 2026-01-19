@@ -19,7 +19,7 @@ redirect_from:
 
 Lezhi Chen (陈乐知) is currently an undergraduate student at the College of Electrical Engineering, Sichuan University, expected to graduate in 2027. His current research interests lie primarily on <span style="color:purple; font-weight:bold;">graph representation learning</span> and <span style="color:purple; font-weight:bold;">computational biology</span>. He is also very interested in statistical physics, biophysics, complex networks.
 
-陈乐知，四川大学本科生，预计于2027年毕业。他目前在北京大学定量生物学中心实习，在[周沛劼老师](https://cliffzhou92.github.io/)的指导下进行计算系统生物学相关研究。他还是四川大学计算机学院的实习生，在[琚玮老师](https://juweipku.github.io/)和[易思宇老师](https://yisiyu95.github.io/)的指导下进行空间转录组学数据挖掘相关研究。他当前的研究兴趣主要集中在<span style="color:purple; font-weight:bold;">图表示学习</span>和<span style="color:purple; font-weight:bold;">计算生物学</span>领域。此外，他还对统计物理（非线性动力学、随机热力学）、生物物理、复杂网络非常感兴趣（尚在学习中，目前仅为名词党哈哈）。日常生活中，他喜欢推galgame，rpg和看动漫。如果你对上述领域感兴趣，非常欢迎随时联系，他非常喜欢和不同背景的科研工作者交流学习！
+陈乐知，四川大学本科生，预计于2027年毕业。他目前在北京大学定量生物学中心实习，在[周沛劼老师](https://cliffzhou92.github.io/)的指导下进行细胞动力学相关研究。他还是四川大学计算机学院的实习生，在[琚玮老师](https://juweipku.github.io/)和[易思宇老师](https://yisiyu95.github.io/)的指导下进行空间转录组学数据挖掘相关研究。他当前的研究兴趣主要集中在<span style="color:purple; font-weight:bold;">图表示学习</span>和<span style="color:purple; font-weight:bold;">计算生物学</span>领域。此外，他还对统计物理（非线性动力学、随机热力学）、生物物理、复杂网络非常感兴趣（尚在学习中，目前仅为名词党哈哈）。日常生活中，他喜欢推galgame，rpg和看动漫。如果你对上述领域感兴趣，非常欢迎随时联系，他非常喜欢和不同背景的科研工作者交流学习！
 
 **Email:** chenlezhi@stu.scu.edu.cn
 

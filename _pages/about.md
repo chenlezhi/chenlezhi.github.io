@@ -53,7 +53,7 @@ Statistical Physics: (Still under learning)
   
   Domain identification in Spatial Transcriptomics
   
-  Supervised by: Prof.[Wei Ju](https://juweipku.github.io/), Prof.[Siyu Yi](https://yisiyu95.github.io/)
+  Supervised by: Prof.[Wei Ju](https://juweipku.github.io/) and Prof.[Siyu Yi](https://yisiyu95.github.io/)
 
 # 📝 Publications 
 **2025**

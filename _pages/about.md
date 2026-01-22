@@ -17,23 +17,38 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lezhi Chen (陈乐知) is currently an undergraduate student at the College of Electrical Engineering, Sichuan University, expected to graduate in 2027. His current research interests lie primarily on <span style="color:purple; font-weight:bold;">Computational Biology</span> and <span style="color:purple; font-weight:bold;">Machine Learning(especially Graph Representation Learning)</span>. He is also very interested in Statistical Physics, Biophysics, and Complex Systems.
+Lezhi Chen (陈乐知) is currently an undergraduate student at the College of Electrical Engineering, Sichuan University, expected to graduate in 2027. His current research interests lie primarily on <span style="color:purple; font-weight:bold;">Computational Biology</span> and <span style="color:purple; font-weight:bold;">Machine Learning</span> (especially Graph Representation Learning). He is also very interested in Statistical Physics, Biophysics, and Complex Systems.
 
-陈乐知，四川大学本科生，预计于2027年毕业。他目前在北京大学国际机器学习研究中心实习，在[周沛劼老师](https://cliffzhou92.github.io/)的指导下进行细胞动力学相关研究。他还是四川大学计算机学院的实习生，在[琚玮老师](https://juweipku.github.io/)的指导下进行空间转录组学数据挖掘相关研究。他当前的研究兴趣主要围绕生物学，从计算与理论两方面展开：在计算方面，他主要关心机器学习（尤其是图表示学习）在<span style="color:purple; font-weight:bold;">计算生物学</span>中的应用；在理论方面，他主要对从<span style="color:purple; font-weight:bold;">统计物理</span>（非线性动力学、随机热力学、复杂网络）的视角研究生物学机理感兴趣（尚在学习中，目前仅为名词党哈哈）。此外，他还积极与临床医生合作，针对临床研究中的实际问题与数据，开发相应的算法与系统。日常生活中，他喜欢推galgame，rpg和看动漫。如果你对上述领域感兴趣，非常欢迎随时联系，他非常喜欢和不同背景的科研工作者交流学习！
+陈乐知，四川大学本科生，预计于2027年毕业。他目前在北京大学国际机器学习研究中心实习，在[周沛劼老师](https://cliffzhou92.github.io/)的指导下进行细胞动力学相关研究。他还是四川大学计算机学院的实习生，在[琚玮老师](https://juweipku.github.io/)的指导下进行空间转录组学数据挖掘相关研究。他当前的研究兴趣主要围绕生物学，从计算与理论两方面展开：在计算方面，他主要关心<span style="color:purple; font-weight:bold;">机器学习</span>（尤其是图表示学习）在<span style="color:purple; font-weight:bold;">计算生物学</span>中的应用；在理论方面，他主要对从<span style="color:purple; font-weight:bold;">统计物理</span>（非线性动力学、随机热力学、复杂网络）的视角研究生物学机理感兴趣（尚在学习中，目前仅为名词党哈哈）。此外，他还积极与临床医生合作，针对临床研究中的实际问题进行<span style="color:purple; font-weight:bold;">数据挖掘</span>。日常生活中，他喜欢推galgame，rpg和看动漫。如果你对上述领域感兴趣，非常欢迎随时联系，他非常喜欢和不同背景的科研工作者交流学习！
 
 **Email:** chenlezhi@stu.scu.edu.cn
 
 # Research Interests
 
 Computational Biology:
-- Cellular dynamics, AI-driven Virtual Cell 
-- Data Mining, Graph Representation Learning
-- Bioinformatics, Multi-omics Data Analysis
+- Cellular Dynamics, AI-driven Virtual Cell 
+- Machine Learning, Graph Representation Learning
 
-Statistical Physics: (Still under learning)
-- Theoretical Biological Physics, Systems Biology
+Systems Biology: (Still under learning)
+- Statistical Physics, Theoretical Biophysics
 - Complex Systems, Complex Networks
 - Nonlinear Dynamics, Stochastic Thermodynamics
+
+Bioinformatics:
+- Single-cell Data Mining, Multi-omics Data Analysis
+- Anything biological and clinical researchers need
+
+# Selected Publications
+
+**Computational Biology**
+
+- [MOST: Modularity-guided Domain Identification in Spatial Transcriptomics Data](https://chenlezhi.github.io/)
+
+  **Lezhi Chen**, Siyu Yi, Wei Zhang, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju
+
+**Systems Biology**
+
+**Bioinformatics**
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **AAAI 2026** !!

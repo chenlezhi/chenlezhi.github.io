@@ -25,16 +25,16 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
 # Research Interests
 
-Computational Biology:
+**Computational Biology**:
 - Cellular Dynamics, AI-driven Virtual Cell 
 - Machine Learning, Graph Representation Learning
 
-Systems Biology: (Still under learning)
+**Systems Biology**: (Still under learning)
 - Statistical Physics, Theoretical Biophysics
 - Complex Systems, Complex Networks
 - Nonlinear Dynamics, Stochastic Thermodynamics
 
-Bioinformatics:
+**Bioinformatics**:
 - Single-cell Data Mining, Multi-omics Data Analysis
 - Anything biological and clinical researchers need
 
@@ -66,7 +66,7 @@ Bioinformatics:
 
 - *2024.12 - now*, College of Computer Science, **Sichuan University**
   
-  Domain identification in Spatial Transcriptomics
+  Domain identification in Spatial Transcriptomics data
   
   Supervised by: Prof.[Wei Ju](https://juweipku.github.io/) and Prof.[Siyu Yi](https://yisiyu95.github.io/)
 

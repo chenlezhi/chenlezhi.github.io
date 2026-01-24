@@ -75,6 +75,14 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
   Supervised by: Prof.[Wei Ju](https://juweipku.github.io/) and Prof.[Siyu Yi](https://yisiyu95.github.io/)
 
 # 📝 Publications 
+**2026**
+
+- [stHGNN: Deciphering Spatial Domains via Dual Hypergraph Enhancement](https://chenlezhi.github.io/)
+
+  **Lezhi Chen***, Jinghong Tang*, Siyu Yi, Yifan Wang, Ziyue Qiao, Jiancheng Lv, Wei Ju
+
+  submitted to **ICML 2026**
+
 **2025**
 
 - [MOST: Modularity-guided Domain Identification in Spatial Transcriptomics Data](https://chenlezhi.github.io/)

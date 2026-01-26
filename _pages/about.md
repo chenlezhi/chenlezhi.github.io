@@ -66,40 +66,33 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
   Computational system biology, Cellular dynamics
 
   Supervised by: Prof.[Peijie Zhou](https://cliffzhou92.github.io/)
-  
 
 - *2024.12 - now*, College of Computer Science, **Sichuan University**
   
   Domain identification in Spatial Transcriptomics data
   
-  Supervised by: Prof.[Wei Ju](https://juweipku.github.io/) and Prof.[Siyu Yi](https://yisiyu95.github.io/)
+  Supervised by: Prof.[Wei Ju](https://juweipku.github.io/)
 
 # 📝 Publications 
 **2026**
 
-- [stHGNN: Deciphering Spatial Domains via Dual Hypergraph Enhancement](https://chenlezhi.github.io/)
+- stHGNN: Deciphering Spatial Domains via Dual Hypergraph Enhancement
 
   **Lezhi Chen***, Jinghong Tang*, Siyu Yi, Yifan Wang, Ziyue Qiao, Jiancheng Lv, Wei Ju
 
-  submitted to **ICML 2026**
-
 **2025**
 
-- [MOST: Modularity-guided Domain Identification in Spatial Transcriptomics Data](https://chenlezhi.github.io/)
+- MOST: Modularity-guided Domain Identification in Spatial Transcriptomics Data
 
   **Lezhi Chen**, Siyu Yi, Wei Zhang, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju
 
-  submitted to **Information Fusion**, <span style="color:red;">中科院一区, IF=15.5</span>
-  
+  Under review by **Information Fusion**, <span style="color:red;">中科院一区, IF=15.5</span>
 
-- [stUAI: Uncertainty-aware Clustering of Spatially Resolved Transcriptomics Data](https://chenlezhi.github.io/)
+- stUAI: Uncertainty-aware Clustering of Spatially Resolved Transcriptomics Data
 
   Wei Ju, **Lezhi Chen**, Siyu Yi, Wei Zhang, Yifan Wang, Yanran Zhu, Ziyue Qiao, Jiancheng Lv
 
-  submitted to **ICLR 2026**
-  
-
-- [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
+- Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data
 
   Wei Zhang, Siyu Yi, **Lezhi Chen**, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 

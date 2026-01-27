@@ -19,7 +19,7 @@ redirect_from:
 
 Lezhi Chen (陈乐知) is currently an undergraduate student at the College of Electrical Engineering, Sichuan University. His current research interests lie primarily on <span style="color:purple; font-weight:bold;">Computational Biology</span> and <span style="color:purple; font-weight:bold;">Machine Learning</span> (especially Graph Representation Learning). He is also very interested in Statistical Physics, Biophysics, and Complex Systems.
 
-陈乐知，四川大学本科生。他目前在[周沛劼老师](https://cliffzhou92.github.io/)的指导下学习计算系统生物学、细胞动力学。他还是四川大学计算机学院的实习生，在[琚玮老师](https://juweipku.github.io/)的指导下进行图表示学习、空间转录组学数据挖掘相关研究。他当前的研究兴趣主要围绕生物学，从计算与理论两方面展开：在计算方面，他主要关心<span style="color:purple; font-weight:bold;">机器学习</span>（尤其是图表示学习）在<span style="color:purple; font-weight:bold;">计算生物学</span>中的应用；在理论方面，他主要对从<span style="color:purple; font-weight:bold;">统计物理</span>（非线性动力学、随机热力学、复杂网络）的视角研究生物学机理感兴趣（尚在学习中，目前仅为名词党哈哈）。此外，他还积极与临床医生合作，针对临床研究中的实际问题进行<span style="color:purple; font-weight:bold;">数据挖掘</span>。日常生活中，他喜欢推galgame，rpg和看动漫。如果你对上述领域感兴趣，非常欢迎随时联系，他非常喜欢和不同背景的科研工作者交流学习！
+陈乐知，四川大学本科生。他目前在[周沛劼老师](https://cliffzhou92.github.io/)的指导下学习细胞动力学。他还是四川大学计算机学院的实习生，在[琚玮老师](https://juweipku.github.io/)的指导下进行空间转录组学数据挖掘相关研究。他当前的研究兴趣主要围绕生物学，从计算与理论两方面展开：在计算方面，他主要关心<span style="color:purple; font-weight:bold;">机器学习</span>（尤其是图表示学习）在<span style="color:purple; font-weight:bold;">计算生物学</span>中的应用；在理论方面，他主要对从<span style="color:purple; font-weight:bold;">统计物理</span>（非线性动力学、随机热力学、复杂网络）的视角研究生物学机理感兴趣（尚在学习中，目前仅为名词党哈哈）。此外，他还积极与临床医生合作，针对临床研究中的实际问题进行<span style="color:purple; font-weight:bold;">数据挖掘</span>。日常生活中，他喜欢推galgame，rpg和看动漫。如果你对上述领域感兴趣，非常欢迎随时联系，他非常喜欢和不同背景的科研工作者交流学习！
 
 **Email:** chenlezhi@stu.scu.edu.cn
 
@@ -42,9 +42,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
 **Computational Biology**
 
-- [MOST: Modularity-guided Domain Identification in Spatial Transcriptomics Data](https://chenlezhi.github.io/)
-
-  **Lezhi Chen**, Siyu Yi, Wei Zhang, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju
+- Looking forward to future interesting research
 
 **Systems Biology**
 
@@ -63,13 +61,13 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 # 💻 Internships
 - *2026.01 - now*, Center for Machine Learning Research, **Peking University**
 
-  Computational system biology, Cellular dynamics
+  Computational Systems Biology, Cellular Dynamics
 
   Supervised by: Prof.[Peijie Zhou](https://cliffzhou92.github.io/)
 
 - *2024.12 - 2026.02*, College of Computer Science, **Sichuan University**
   
-  Domain identification in Spatial Transcriptomics data
+  AI4Science, Graph Representation Learning
   
   Supervised by: Prof.[Wei Ju](https://juweipku.github.io/)
 
@@ -82,6 +80,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
   Under review
 
+
 **2025**
 
 - **MOST: Modularity-guided Domain Identification in Spatial Transcriptomics Data**
@@ -90,11 +89,13 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
   Under review by **Information Fusion**, <span style="color:red;">中科院一区, IF=15.5</span>
 
+
 - **Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data**
 
   Wei Zhang, Siyu Yi, **Lezhi Chen**, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 
   **AAAI 2026**, <span style="color:red; font-weight:bold;">CCF-A</span>
+
 
 - **stUAI: Uncertainty-aware Clustering of Spatially Resolved Transcriptomics Data**
 
@@ -102,8 +103,6 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
   Under review
 
+
 # 🎖 Honors and Awards
 - *2025.10*, Individual second-class scholarship, Sichuan University
-
-# 💬 Invited Talks
-- 

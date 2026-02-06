@@ -89,7 +89,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
   **Lezhi Chen**, Siyu Yi, Wei Zhang, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju
 
-  Under review by **Information Fusion**, <span style="color:red;">中科院一区, IF=15.5</span>
+  Under review by **Information Fusion**, <span style="color:red;">IF=15.5</span>
 
 
 - **Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data**

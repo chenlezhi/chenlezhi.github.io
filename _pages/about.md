@@ -37,17 +37,17 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
 # Selected Publications
 
-**Computational Biology**
+**Computational Biology**:
 
 - Looking forward to future interesting research
 
-**Systems Biology**
+**Systems Biology**:
 
 - Looking forward to future interesting research
 
   十分感兴趣，不过现在还在打热力学与统计物理基础，路漫漫其修远兮~
 
-**Bioinformatics**
+**Bioinformatics**:
 
 - Looking forward to future interesting research
 

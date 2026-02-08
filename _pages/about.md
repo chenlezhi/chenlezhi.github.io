@@ -63,7 +63,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
 - **stHGNN: Deciphering Spatial Transcriptomics via Dual Hypergraph Enhancement**
 
-  **Lezhi Chen***, Jinghong Tang*, Siyu Yi, Yifan Wang, Ziyue Qiao, Jiancheng Lv, Wei Ju
+  **Lezhi Chen**\*, Jinghong Tang\*, Siyu Yi, Yifan Wang, Ziyue Qiao, Jiancheng Lv, Wei Ju
 
   Under review
 

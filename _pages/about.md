@@ -32,9 +32,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
 **Systems Biology**: (Still under learning)
 - Statistical Physics, Biological Physics
-- Dynamical Systems, Stochastic Process
 - Complex Systems, Complex Networks
-- Nonequilibrium, Stochastic Thermodynamics
 
 # Selected Publications
 

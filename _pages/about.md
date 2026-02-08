@@ -23,17 +23,6 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
 **Email:** chenlezhi@stu.scu.edu.cn
 
-# Research Interests
-
-**Computational Biology**:
-- AI-driven Virtual Cell, Cellular Dynamics
-- Machine Learning, Data Mining
-- Generative Models, Graph Neural Networks
-
-**Systems Biology**: (Still under learning)
-- Statistical Physics, Biological Physics
-- Complex Systems, Complex Networks
-
 # Selected Publications
 
 **Computational Biology**:

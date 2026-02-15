@@ -67,7 +67,6 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
   Under review
 
-
 **2025**
 
 - **MOST: Modularity-guided Domain Identification in Spatial Transcriptomics Data**
@@ -81,14 +80,6 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
   Wei Zhang, Siyu Yi, **Lezhi Chen**, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 
   **AAAI 2026**, <span style="color:red; font-weight:bold;">CCF-A</span>
-
-
-- **stUAI: Uncertainty-aware Clustering of Spatially Resolved Transcriptomics Data**
-
-  Wei Ju, **Lezhi Chen**, Siyu Yi, Wei Zhang, Yifan Wang, Yanran Zhu, Ziyue Qiao, Jiancheng Lv
-
-  Under review
-
 
 # 🎖 Honors and Awards
 - *2025.10*, Individual second-class scholarship, Sichuan University

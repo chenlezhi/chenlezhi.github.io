@@ -23,9 +23,6 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
 **Email:** chenlezhi@stu.scu.edu.cn
 
-</div>
-</div>
-
 # Selected Publications
 
 **Computational Biology**:
@@ -42,20 +39,11 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
 - Looking forward to future interesting research
 
-</div>
-</div>
-
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **AAAI 2026** !!
 
-</div>
-</div>
-
 # 📖 Educations
 - *2023.09 - 2027.06*, B.S. in Automation, College of Electrical Engineering, **Sichuan University**
-
-</div>
-</div>
 
 # 💻 Internships
 - *2026.01 - now*, Center for Machine Learning Research, **Peking University**
@@ -64,49 +52,34 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
   Supervised by: Prof.[Peijie Zhou](https://cliffzhou92.github.io/)
 
-</div>
-</div>
-
 - *2024.12 - 2026.02*, College of Computer Science, **Sichuan University**
   
   Spatial Transcriptomics, Graph Neural Networks
   
   Supervised by: Prof.[Wei Ju](https://juweipku.github.io/)
 
-</div>
-</div>
-
 # 📝 Publications 
 **2026**
 
-- **stHGNN: Deciphering Spatial Transcriptomics via Dual Hypergraph Enhancement**
+- [stHGNN: Deciphering Spatial Transcriptomics via Dual Hypergraph Enhancement](https://chenlezhi.github.io/)
 
   **Lezhi Chen**\*, Jinghong Tang\*, Siyu Yi, Yifan Wang, Ziyue Qiao, Jiancheng Lv, Wei Ju
 
   Under review
 
-</div>
-</div>
-
 **2025**
 
-- **MOST: Modularity-guided Domain Identification in Spatial Transcriptomics Data**
+- [MOST: Modularity-guided Domain Identification in Spatial Transcriptomics Data](https://chenlezhi.github.io/)
 
   **Lezhi Chen**, Siyu Yi, Wei Zhang, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju
 
   Under review
 
-</div>
-</div>
-
-- **Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data**
+- [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
 
   Wei Zhang, Siyu Yi, **Lezhi Chen**, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 
   **AAAI 2026**, <span style="color:red; font-weight:bold;">CCF-A</span>
-
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2025.10*, Individual second-class scholarship, Sichuan University

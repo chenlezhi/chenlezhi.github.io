@@ -23,10 +23,6 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
 **Email:** chenlezhi@stu.scu.edu.cn
 
-**Bioinformatics**:
-
-- Looking forward to future interesting research
-
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **AAAI 2026** !!
 
@@ -47,7 +43,6 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
   Supervised by: Prof.[Wei Ju](https://juweipku.github.io/)
 
 # 📝 Publications 
-
 **2026**
 
 - [stHGNN: Deciphering Spatial Transcriptomics via Dual Hypergraph Enhancement](https://chenlezhi.github.io/)
@@ -71,4 +66,4 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
   Under review
 
 # 🎖 Honors and Awards
-- *2025.10*, Individual second-class scholarship, Sichuan University
+- *2025.10*, Individual Second-class Scholarship, Sichuan University

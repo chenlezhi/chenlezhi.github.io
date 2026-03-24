@@ -24,12 +24,15 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 **Email:** chenlezhi@stu.scu.edu.cn
 
 # 🔥 News
+
 - *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **AAAI 2026** !!
 
 # 📖 Educations
+
 - *2023.09 - 2027.06*, B.S. in Automation, College of Electrical Engineering, **Sichuan University**
 
 # 💻 Internships
+
 - *2026.01 - now*, Center for Machine Learning Research, **Peking University**
 
   Computational Systems Biology, Cellular Dynamics
@@ -60,7 +63,6 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at the College of E
 
   Wei Ju, **Lezhi Chen**, Siyu Yi, Wei Zhang, Yifan Wang, Yanran Zhu, Ziyue Qiao, Jiancheng Lv
 
-  Under review
-
 # 🎖 Honors and Awards
+
 - *2025.10*, Individual Second-class Scholarship, Sichuan University

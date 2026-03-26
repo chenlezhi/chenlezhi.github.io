@@ -37,13 +37,13 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at Sichuan Universi
 
   Computational Systems Biology, Cellular Dynamics
 
-  Supervised by: Prof.[Peijie Zhou](https://cliffzhou92.github.io/)
+  Supervised by: Prof. [Peijie Zhou](https://cliffzhou92.github.io/)
 
 - *2024.12 - 2026.02*, College of Computer Science, **Sichuan University**
   
   Graph Neural Networks, Spatial Transcriptomics
   
-  Supervised by: Prof.[Wei Ju](https://juweipku.github.io/)
+  Supervised by: Prof. [Wei Ju](https://juweipku.github.io/)
 
 # 📝 Publications 
 

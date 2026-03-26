@@ -47,6 +47,8 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at Sichuan Universi
 
 # 📝 Publications 
 
+You can find my full publication list on my [Google Scholar](https://chenlezhi.github.io/)
+
 **2025**
 
 - [MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)

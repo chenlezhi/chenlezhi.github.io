@@ -25,7 +25,9 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at Sichuan Universi
 
 # 🔥 News
 
-- *2025.11*: &nbsp;🎉🎉 One paper has been accepted by **AAAI 2026** !!
+- *2025.11*: &nbsp;🎉🎉 Our PREST was accepted by **AAAI 2026**! It is a prototype-based evidence-aware integration framework that explicitly
+  quantifies uncertainty in spatial transcriptomics data, enabling robust spatial domain identification and clustering-friendly representation
+  learning.
 
 # 📖 Educations
 

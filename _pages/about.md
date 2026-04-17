@@ -59,13 +59,13 @@ You can find my full publication list on my [Google Scholar](https://chenlezhi.g
 
 - [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
 
-  Wei Zhang, Siyu Yi, **Lezhi Chen**, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
+  Wei Zhang, Siyu Yi, **Lezhi Chen**, ..., Wei Ju
 
   **AAAI 2026**, <span style="color:red; font-weight:bold;">CCF-A</span>
 
 - [stUAI: Uncertainty-aware Clustering of Spatially Resolved Transcriptomics Data](https://chenlezhi.github.io/)
 
-  Wei Ju, **Lezhi Chen**, Siyu Yi, Wei Zhang, Yifan Wang, Yanran Zhu, Ziyue Qiao, Jiancheng Lv
+  Wei Ju, **Lezhi Chen**, Siyu Yi, Wei Zhang, et al.
 
 # 🎖 Honors and Awards
 

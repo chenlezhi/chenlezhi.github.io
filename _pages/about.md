@@ -55,7 +55,7 @@ You can find my full publication list on my [Google Scholar](https://chenlezhi.g
 
 - [MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
 
-  **Lezhi Chen**, Siyu Yi, Wei Zhang, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju
+  **Lezhi Chen**, Siyu Yi, Wei Zhang, et al., Wei Ju
 
 - [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
 

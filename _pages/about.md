@@ -31,21 +31,37 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at Sichuan Universi
 
 # 📖 Educations
 
-- *2023.09 - 2027.06*, Bachelor’s Degree, College of Electrical Engineering, **Sichuan University**
+- **2023.09 - 2027.06**, Bachelor’s Degree, College of Electrical Engineering, **Sichuan University**
 
 # 💻 Internships
 
-- *2026.01 - now*, Center for Machine Learning Research, **Peking University**
-
-  Computational Systems Biology, Generative Models
+- **2026.01 - now**, Center for Machine Learning Research, **Peking University**
 
   Supervised by: Prof. [Peijie Zhou](https://cliffzhou92.github.io/)
 
-- *2024.12 - 2026.02*, College of Computer Science, **Sichuan University**
-  
-  Graph Neural Networks, Spatial Transcriptomics
+  Research: Trajectory Inference in Single-cell/Spatial Transcriptomics
+
+  Tools: Optimal Transport, Flow Matching
+
+  **北京大学** 国际机器学习研究中心（指导老师：[周沛劼](https://cliffzhou92.github.io/)老师）
+
+  研究问题: 单细胞/空间转录组学数据轨迹推断（生成建模）
+
+  主要技术: 最优传输，流匹配
+
+- **2024.12 - 2026.02**, College of Computer Science, **Sichuan University**
   
   Supervised by: Prof. [Wei Ju](https://juweipku.github.io/)
+
+  Research: Representation Learning in Single-cell/Spatial Transcriptomics
+
+  Tools: Graph Neural Networks, Contrastive Learning
+
+  **四川大学** 计算机学院（指导老师：[琚玮](https://juweipku.github.io/)老师）
+
+  研究问题: 单细胞/空间转录组学数据表示学习
+
+  主要技术: 图神经网络，对比学习
 
 # 📝 Publications 
 

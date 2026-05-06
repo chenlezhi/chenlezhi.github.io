@@ -19,7 +19,7 @@ redirect_from:
 
 Lezhi Chen (陈乐知) is currently an undergraduate student at Sichuan University. His current research interests lie primarily on <span style="color:purple; font-weight:bold;">Computational Systems Biology</span> (recently focusing on single-cell spatiotemporal dynamics) and <span style="color:purple; font-weight:bold;">Machine Learning</span> (primarily focusing on Generative Modeling, Graph Neural Networks). He is also very interested in Statistical Physics (Complex Networks) and Applied Mathematics (Optimal Transport).
 
-陈乐知，四川大学本科生。他目前在北京大学国际机器学习中心实习，在[周沛劼老师](https://cliffzhou92.github.io/)的指导下进行细胞动力学、最优传输相关研究。他过去是四川大学计算机学院的实习生，在[琚玮老师](https://juweipku.github.io/)的指导下进行空间转录组学算法、图聚类相关研究。
+陈乐知，四川大学本科生。他目前在北京大学国际机器学习中心实习，在[周沛劼老师](https://cliffzhou92.github.io/)的指导下进行细胞动力学、最优传输相关研究。他还曾在四川大学计算机学院实习，在[琚玮老师](https://juweipku.github.io/)的指导下进行空间转录组学算法、图聚类相关研究。
 
 他当前的研究兴趣主要集中于<span style="color:purple; font-weight:bold;">计算系统生物学</span>，即围绕生物学问题，从计算与理论两方面展开：在计算方面，他主要关心<span style="color:purple; font-weight:bold;">机器学习</span>（生成建模、图神经网络）在处理生物学大数据、模拟生物学过程中的应用；在理论方面，他主要对从<span style="color:purple; font-weight:bold;">统计物理</span>（复杂网络）和<span style="color:purple; font-weight:bold;">应用数学</span>（最优传输）的视角研究生物学机理感兴趣（尚在学习中，目前所知甚少哈哈）。
 

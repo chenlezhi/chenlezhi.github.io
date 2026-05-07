@@ -71,6 +71,11 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at Sichuan Universi
 
 You can find my full publication list on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1txquubss9YC6mSqZTxRTKs6Dqaek7HyI8Ye-drv7KGg0fXsnkC1LSMJ8NNNNwtVjE2Oa9cAvX-tnf8xM3RSKs&user=SsG19rQAAAAJ)
 
+**2026**
+- [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://chenlezhi.github.io/)
+
+  Qiangwei Peng, **Lezhi Chen**, Peijie Zhou
+
 **2025**
 
 - [MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)

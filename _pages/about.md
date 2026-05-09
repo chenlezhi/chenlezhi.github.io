@@ -41,9 +41,9 @@ Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sich
 
   Tools: Optimal Transport, Flow Matching
 
-  **北京大学** 国际机器学习研究中心（指导老师：[周沛劼](https://cliffzhou92.github.io/)老师）
+  **北京大学** 国际机器学习中心（指导老师：[周沛劼](https://cliffzhou92.github.io/)老师）
 
-  研究问题: 单细胞/空间转录组学数据轨迹推断（生成建模）
+  研究问题: 单细胞/空间转录组学数据轨迹推断
 
   主要工具: 最优传输，流匹配
 

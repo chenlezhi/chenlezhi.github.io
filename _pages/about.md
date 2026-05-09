@@ -95,3 +95,6 @@ You can find my full publication list on my [Google Scholar](https://scholar.goo
 # 🎖 Honors and Awards
 
 - *2025.10*, Individual Second-class Scholarship, Sichuan University
+
+# 💬 Invited Talks
+

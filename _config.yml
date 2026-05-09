@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lezhi Chen"
-description              : "ai4science, galgame, rpg"
+description              : 
 repository               : "Lezhi Chen's Homepage"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lezhi Chen"
   avatar           : "images/2.jpg"
-  bio              : "Sichuan University"
+  bio              : "ai4bio, galgame, jrpg"
   location         : "Sichuan, China"
-  employer         :
+  employer         : "Sichuan University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1txquubss9YC6mSqZTxRTKs6Dqaek7HyI8Ye-drv7KGg0fXsnkC1LSMJ8NNNNwtVjE2Oa9cAvX-tnf8xM3RSKs&user=SsG19rQAAAAJ"
   email            : "chenlezhi@stu.scu.edu.cn"

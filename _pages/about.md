@@ -76,7 +76,7 @@ You can find my full publication list on my [Google Scholar](https://scholar.goo
 
   **Lezhi Chen**, Siyu Yi, Wei Zhang, ..., Wei Ju
 
-- [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
+- [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://ojs.aaai.org/index.php/AAAI/article/view/38673)
 
   Wei Zhang, Siyu Yi, **Lezhi Chen**, ..., Wei Ju
 

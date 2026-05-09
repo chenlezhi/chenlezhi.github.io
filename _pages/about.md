@@ -61,9 +61,9 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at Sichuan Universi
 
   主要工具: 图神经网络，对比学习
 
-# 📝 Selected Publications 
+# 📝 Publications 
 
-You can find my full publication list on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1txquubss9YC6mSqZTxRTKs6Dqaek7HyI8Ye-drv7KGg0fXsnkC1LSMJ8NNNNwtVjE2Oa9cAvX-tnf8xM3RSKs&user=SsG19rQAAAAJ)
+You can find my full publication list on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1txquubss9YC6mSqZTxRTKs6Dqaek7HyI8Ye-drv7KGg0fXsnkC1LSMJ8NNNNwtVjE2Oa9cAvX-tnf8xM3RSKs&user=SsG19rQAAAAJ). Below are the selected publications that I was deeply involved in and greatly appreciate.
 
 **2026**
 - [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://chenlezhi.github.io/)

@@ -27,12 +27,6 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at Sichuan Universi
 
 **Email:** chenlezhi@stu.scu.edu.cn
 
-# 🔥 News
-
-- *2025.11*: &nbsp;🎉🎉 Our PREST was accepted by **AAAI 2026**! It is a prototype-based evidence-aware integration framework that explicitly
-  quantifies uncertainty in spatial transcriptomics data, enabling robust spatial domain identification and clustering-friendly representation
-  learning.
-
 # 📖 Educations
 
 - **2023.09 - 2027.06**, Bachelor’s Degree, Department of Automation, **Sichuan University**
@@ -51,7 +45,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at Sichuan Universi
 
   研究问题: 单细胞/空间转录组学数据轨迹推断（生成建模）
 
-  主要技术: 最优传输，流匹配
+  主要工具: 最优传输，流匹配
 
 - **2024.12 - 2026.02**, College of Computer Science, **Sichuan University**
   
@@ -65,7 +59,7 @@ Lezhi Chen (陈乐知) is currently an undergraduate student at Sichuan Universi
 
   研究问题: 单细胞/空间转录组学数据表示学习
 
-  主要技术: 图神经网络，对比学习
+  主要工具: 图神经网络，对比学习
 
 # 📝 Publications 
 

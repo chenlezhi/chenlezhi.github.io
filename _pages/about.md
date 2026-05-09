@@ -74,7 +74,7 @@ You can find my full publication list on my [Google Scholar](https://scholar.goo
 **2026**
 - [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://chenlezhi.github.io/)
 
-  Qiangwei Peng, **Lezhi Chen**, Peijie Zhou
+  Qiangwei Peng*, **Lezhi Chen***, Peijie Zhou
 
 **2025**
 

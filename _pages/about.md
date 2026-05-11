@@ -66,6 +66,7 @@ Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sich
 You can find my full publication list on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1txquubss9YC6mSqZTxRTKs6Dqaek7HyI8Ye-drv7KGg0fXsnkC1LSMJ8NNNNwtVjE2Oa9cAvX-tnf8xM3RSKs&user=SsG19rQAAAAJ). Below are the selected publications that I was deeply involved in and greatly appreciate, you can feel my taste and find my growth path from these papers~
 
 **2026**
+
 - [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://chenlezhi.github.io/)
 
   Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou
@@ -74,15 +75,12 @@ You can find my full publication list on my [Google Scholar](https://scholar.goo
 
 - [MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
 
-  **Lezhi Chen**, Siyu Yi, Wei Zhang, ..., Wei Ju
+  **Lezhi Chen**, Siyu Yi, Wei Zhang, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 
-- [stUAI: Uncertainty-aware Clustering of Spatially Resolved Transcriptomics Data](https://chenlezhi.github.io/)
+- [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://ojs.aaai.org/index.php/AAAI/article/view/38673)
 
-  Wei Ju, **Lezhi Chen**, Siyu Yi, Wei Zhang, et al.
+  Wei Zhang, Siyu Yi, **Lezhi Chen**, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 
 # 🎖 Honors and Awards
 
-- *2025.10*, Individual Second-class Scholarship, Sichuan University
-
 # 💬 Invited Talks
-

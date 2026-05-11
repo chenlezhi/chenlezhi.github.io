@@ -81,6 +81,8 @@ You can find my full publication list on my [Google Scholar](https://scholar.goo
 
   Wei Zhang, Siyu Yi, **Lezhi Chen**, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
 
+  **AAAI 2026**, <span style="color:purple; font-weight:bold;">CCF A</span>
+
 # 🎖 Honors and Awards
 
 # 💬 Invited Talks

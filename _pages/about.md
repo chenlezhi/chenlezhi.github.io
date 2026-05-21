@@ -47,7 +47,7 @@ Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sich
 
   主要工具: 最优传输，流匹配
 
-- **2024.12 - 2026.02**, College of Computer Science, **Sichuan University**
+- **2024.12 - 2026.02**, School of Artificial Intelligence, **Sichuan University**
   
   Supervised by: Prof. [Wei Ju](https://juweipku.github.io/)
 

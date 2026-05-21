@@ -37,13 +37,13 @@ Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sich
 
   Supervised by: Prof. [Peijie Zhou](https://cliffzhou92.github.io/)
 
-  Research: Trajectory Inference in Single-cell/Spatial Transcriptomics
+  Research: Single-cell spatiotemporal dynamics
 
   Tools: Optimal Transport, Flow Matching
 
   **北京大学** 国际机器学习中心（指导老师：[周沛劼](https://cliffzhou92.github.io/)老师）
 
-  研究问题: 单细胞/空间转录组学数据轨迹推断
+  研究问题: 单细胞时空动力学重建
 
   主要工具: 最优传输，流匹配
 
@@ -51,13 +51,13 @@ Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sich
   
   Supervised by: Prof. [Wei Ju](https://juweipku.github.io/)
 
-  Research: Representation Learning in Single-cell/Spatial Transcriptomics
+  Research: Single-cell representation learning
 
   Tools: Graph Neural Networks, Contrastive Learning
 
   **四川大学** 人工智能学院（指导老师：[琚玮](https://juweipku.github.io/)老师）
 
-  研究问题: 单细胞/空间转录组学数据表示学习
+  研究问题: 单细胞表示学习
 
   主要工具: 图神经网络，对比学习
 

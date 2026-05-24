@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sichuan University. My current research interests lie primarily on <span style="color:purple; font-weight:bold;">Computational Systems Biology</span> (recently focusing on single-cell spatiotemporal dynamics) and <span style="color:purple; font-weight:bold;">Machine Learning</span> (primarily focusing on Generative Modeling, Graph Neural Networks). I'm also very interested in Statistical Physics (Complex Networks) and Applied Mathematics (Optimal Transport).
+Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sichuan University. My current research interests lie primarily on <span style="color:purple; font-weight:bold;">Computational Systems Biology</span> (recently focusing on single-cell spatiotemporal dynamics) and <span style="color:purple; font-weight:bold;">Machine Learning</span> (primarily focusing on Generative Models, Graph Neural Networks). I'm also very interested in Statistical Physics (Complex Networks) and Applied Mathematics (Optimal Transport).
 
 欢迎来到我的主页！我是陈乐知，四川大学本科生，目前在北京大学定量生物学中心实习，在[周沛劼老师](https://cliffzhou92.github.io/)的指导下进行单细胞时空动力学、最优传输相关研究。我还曾是四川大学人工智能学院的实习生，在[琚玮老师](https://juweipku.github.io/)的指导下进行单细胞表示学习、图神经网络相关研究。
 
-我当前的研究兴趣主要集中于<span style="color:purple; font-weight:bold;">计算系统生物学</span>，即围绕生物学问题，从计算与理论两方面展开：在计算方面，我主要关心<span style="color:purple; font-weight:bold;">机器学习</span>（生成建模、图神经网络）在处理生物学大数据、模拟生物学过程中的应用；在理论方面，我对从<span style="color:purple; font-weight:bold;">统计物理</span>（复杂网络）和<span style="color:purple; font-weight:bold;">应用数学</span>（最优传输）的视角研究生物学机理、建立生物学理论十分感兴趣。此外，我还乐于与生物医学背景的同学们合作，一起尝试解决临床中的实际问题。
+我当前的研究兴趣主要集中于<span style="color:purple; font-weight:bold;">计算系统生物学</span>，即围绕生物学问题，从计算与理论两方面展开：在计算方面，我主要关心<span style="color:purple; font-weight:bold;">机器学习</span>（生成模型、图神经网络）在挖掘生物学大数据中的应用；在理论方面，我致力于从<span style="color:purple; font-weight:bold;">统计物理</span>（复杂网络）和<span style="color:purple; font-weight:bold;">应用数学</span>（最优传输）的视角建模生物学机理、模拟生物学过程。此外，我还乐于与生物医学背景的同学们合作，一起尝试解决临床中的实际问题。
 
 日常生活中，我喜欢推galgame，jrpg和看动漫。如果你也对上述领域感兴趣，非常欢迎随时联系，我非常喜欢和不同背景的科研工作者交流学习！
 
@@ -39,13 +39,9 @@ Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sich
 
   Research: Single-cell spatiotemporal dynamics
 
-  Tools: Optimal Transport, Flow Matching
-
   **北京大学** 定量生物学中心（指导老师：[周沛劼](https://cliffzhou92.github.io/)老师）
 
-  研究问题: 单细胞时空动力学重建
-
-  主要工具: 最优传输，流匹配
+  研究课题: 单细胞时空动力学重建
 
 - **2024.12 - 2026.02**, School of Artificial Intelligence, **Sichuan University**
   
@@ -53,17 +49,13 @@ Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sich
 
   Research: Single-cell representation learning
 
-  Tools: Graph Neural Networks, Contrastive Learning
-
   **四川大学** 人工智能学院（指导老师：[琚玮](https://juweipku.github.io/)老师）
 
-  研究问题: 单细胞表示学习
-
-  主要工具: 图神经网络，对比学习
+  研究课题: 单细胞表示学习
 
 # 📝 Publications 
 
-You can find my full publication list on my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1txquubss9YC6mSqZTxRTKs6Dqaek7HyI8Ye-drv7KGg0fXsnkC1LSMJ8NNNNwtVjE2Oa9cAvX-tnf8xM3RSKs&user=SsG19rQAAAAJ). Below are the selected publications that I was deeply involved in and greatly appreciate, you can feel my taste and find my growth path from these papers~
+Below are the selected publications that I was deeply involved in and greatly fond of, you can feel my taste and find my growth path from these papers~
 
 **2026**
 

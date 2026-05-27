@@ -29,7 +29,7 @@ Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sich
 
 # 📖 Educations
 
-- **2023.09 - 2027.06**, Bachelor’s Degree, Department of Automation, **Sichuan University**
+- **2023.09 - 2027.06**, Bachelor’s Degree, College of Electrical Engineering, **Sichuan University**
 
 # 💻 Internships
 

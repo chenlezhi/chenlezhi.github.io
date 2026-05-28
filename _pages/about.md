@@ -71,12 +71,6 @@ Below are the selected publications that I was deeply involved in and greatly fo
 
   **Lezhi Chen**, Siyu Yi, Wei Zhang, Hengchuang Yin, Wei Liu, Yifan Wang, Jiancheng Lv, Wei Ju
 
-- [Evidence-aware Integration and Domain Identification of Spatial Transcriptomics Data](https://ojs.aaai.org/index.php/AAAI/article/view/38673)
-
-  Wei Zhang, Siyu Yi, **Lezhi Chen**, Yifan Wang, Ziyue Qiao, Yongdao Zhou, Wei Ju
-
-  **AAAI 2026**, <span style="color:red; font-weight:bold;">CCF A</span>
-
 # 🎖 Honors and Awards
 
 # 💬 Invited Talks

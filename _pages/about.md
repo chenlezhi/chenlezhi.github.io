@@ -25,7 +25,7 @@ Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sich
 
 日常生活中，我喜欢推galgame，jrpg和看动漫。如果你也对上述领域感兴趣，非常欢迎随时联系，我非常喜欢和不同背景的科研工作者交流学习！
 
-**Email:** chenlezhi@stu.scu.edu.cn, chenlezhi_scu@outlook.com
+**Email:** chenlezhi_scu@outlook.com
 
 # 📖 Educations
 

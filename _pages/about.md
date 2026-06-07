@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sichuan University. My current research interests lie primarily on <span style="color:purple; font-weight:bold;">Computational Systems Biology</span> (recently focusing on single-cell spatiotemporal dynamics) and <span style="color:purple; font-weight:bold;">Machine Learning</span> (primarily focusing on Generative Models, Graph Neural Networks). I'm also very interested in Statistical Physics (Complex Networks) and Applied Mathematics (Optimal Transport).
 
-欢迎来到我的主页！我是陈乐知，四川大学本科生，目前在北京大学定量生物学中心实习，在[周沛劼老师](https://cqb.pku.edu.cn/info/1002/2869.htm)的指导下进行单细胞时空动力学、最优传输相关研究。我还曾是四川大学人工智能学院的实习生，在[琚玮老师](https://juweipku.github.io/)的指导下进行单细胞表示学习、图神经网络相关研究。
+欢迎来到我的主页！我是陈乐知，四川大学本科生，目前在北京大学定量生物学中心实习，在[周沛劼老师](https://cqb.pku.edu.cn/info/1002/2869.htm)的指导下进行单细胞时空动力学重建、最优传输相关研究。我还曾是四川大学人工智能学院的实习生，在[琚玮老师](https://juweipku.github.io/)的指导下进行图神经网络、深度图聚类相关研究。
 
 我当前的研究兴趣主要集中于<span style="color:purple; font-weight:bold;">计算系统生物学</span>，即围绕生物学问题，从计算与理论两方面展开：在计算方面，我主要关心**机器学习**（生成模型、图神经网络）在挖掘生物学大数据中的应用；在理论方面，我致力于从**统计物理**（复杂网络）和**应用数学**（最优传输）的视角建模生物学机理、模拟生物学过程。
 
@@ -47,11 +47,11 @@ Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sich
   
   Supervised by: Prof. [Wei Ju](https://juweipku.github.io/)
 
-  Research: Single-cell representation learning
+  Research: Deep graph clustering
 
   **四川大学** 人工智能学院（指导老师：[琚玮](https://juweipku.github.io/)老师）
 
-  研究课题: 单细胞表示学习
+  研究课题: 深度图聚类
 
 # 📝 Publications 
 
@@ -64,12 +64,6 @@ Below are the selected publications that I was deeply involved in and greatly fo
   Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou
 
   arXiv:2605.16529
-
-**2025**
-
-- [MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
-
-  **Lezhi Chen**\*, Jinghong Tang\*, Siyu Yi, Wei Zhang, Hengchuang Yin, Wei Liu, Yifan Wang, Jiancheng Lv, Wei Ju
 
 # 🎖 Honors and Awards
 

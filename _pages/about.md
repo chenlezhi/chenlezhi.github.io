@@ -25,33 +25,25 @@ Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sich
 
 日常生活中，我喜欢推galgame，jrpg和看动漫。如果你也对上述领域感兴趣，非常欢迎随时联系，我非常喜欢和不同背景的科研工作者交流学习！
 
-**Email:** chenlezhi_scu@outlook.com
+Email: chenlezhi_scu@outlook.com
 
 # 📖 Educations
 
-- **2023.09 - 2027.06**, Bachelor’s Degree, College of Electrical Engineering, **Sichuan University**
+- 2023.09 - 2027.06, Bachelor’s Degree, College of Electrical Engineering, Sichuan University
 
 # 💻 Internships
 
-- **2026.01 - now**, Center for Quantitative Biology, **Peking University**
+- 2026.01 - now, Center for Quantitative Biology, Peking University
 
   Supervised by: Prof. [Peijie Zhou](https://cqb.pku.edu.cn/info/1002/2869.htm)
 
   Research: Single-cell spatiotemporal dynamics
 
-  **北京大学** 定量生物学中心（指导老师：[周沛劼](https://cqb.pku.edu.cn/info/1002/2869.htm)老师）
-
-  研究课题: 单细胞时空动力学重建
-
-- **2024.12 - 2026.02**, School of Artificial Intelligence, **Sichuan University**
+- 2024.12 - 2026.02, School of Artificial Intelligence, **Sichuan University**
   
   Supervised by: Prof. [Wei Ju](https://juweipku.github.io/)
 
   Research: Deep graph clustering
-
-  **四川大学** 人工智能学院（指导老师：[琚玮](https://juweipku.github.io/)老师）
-
-  研究课题: 深度图聚类
 
 # 📝 Publications 
 
@@ -63,8 +55,10 @@ Below are the selected publications that I was deeply involved in and greatly fo
 
   Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou
 
-  arXiv:2605.16529
+  **arXiv:2605.16529**
 
 # 🎖 Honors and Awards
+
+- 2026.5.18, National Level, College Students' Innovative Entrepreneurial Training Plan Program (Ministry of Education)
 
 # 💬 Invited Talks

@@ -41,7 +41,7 @@ Email: chenlezhi_scu@outlook.com
 
   Research: Single-cell spatiotemporal dynamics
 
-- 2024.12 - 2026.02, School of Artificial Intelligence, **Sichuan University**
+- 2024.12 - 2026.02, School of Artificial Intelligence, Sichuan University
   
   Supervised by: Prof. [Wei Ju](https://juweipku.github.io/)
 

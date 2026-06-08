@@ -35,11 +35,11 @@ Email: chenlezhi_scu@outlook.com
 
 # 💻 Internships
 
-- 2026.01 - now, Center for Quantitative Biology, Peking University (Supervised by: Prof. [Peijie Zhou](https://cqb.pku.edu.cn/info/1002/2869.htm))
+- 2026.01 - now, Center for Quantitative Biology, Peking University (Supervised by Prof. [Peijie Zhou](https://cqb.pku.edu.cn/info/1002/2869.htm))
 
   Research: Single-cell spatiotemporal dynamics
 
-- 2024.12 - 2026.02, School of Artificial Intelligence, Sichuan University (Supervised by: Prof. [Wei Ju](https://juweipku.github.io/))
+- 2024.12 - 2026.02, School of Artificial Intelligence, Sichuan University (Supervised by Prof. [Wei Ju](https://juweipku.github.io/))
 
   Research: Deep graph clustering
 

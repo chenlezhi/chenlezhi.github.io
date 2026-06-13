@@ -45,7 +45,7 @@ Email: chenlezhi_scu@outlook.com
 
 # 📝 Publications 
 
-Below are the selected publications that I was deeply involved in and greatly fond of, you can feel my taste and find my growth path from these papers~
+Below are the selected publications that I was deeply involved in, you can feel my taste and find my growth path from these papers~
 
 **2026**
 
@@ -54,6 +54,18 @@ Below are the selected publications that I was deeply involved in and greatly fo
   Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou
 
   **arXiv:2605.16529**
+
+**2025**
+
+- [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://chenlezhi.github.io/)
+
+  Jinghong Tang\*, **Lezhi Chen**\*, Siyu Yi, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju
+
+- [MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
+
+  **Lezhi Chen**\*, Jinghong Tang\*, Siyu Yi, Wei Zhang, Hengchuang Yin, Wei Liu, Yifan Wang, Jiancheng Lv, Wei Ju
+
+\* for Equal Contribution
 
 For my full publication list, see [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1txquubss9YC6mSqZTxRTKs6Dqaek7HyI8Ye-drv7KGg0fXsnkC1LSMJ8NNNNwtVjE2Oa9cAvX-tnf8xM3RSKs&user=SsG19rQAAAAJ).
 

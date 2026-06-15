@@ -57,7 +57,7 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 **2025**
 
-- Deciphering Spatial Transcriptomics Data via Dual Hypergraph Enhancement
+- stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement
 
   Jinghong Tang\*, **Lezhi Chen**\*, Siyu Yi, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju
 

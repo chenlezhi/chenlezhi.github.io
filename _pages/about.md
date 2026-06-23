@@ -57,13 +57,13 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 **2025**
 
-- stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement
+- [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://chenlezhi.github.io/)
 
   Jinghong Tang\*, **Lezhi Chen**\*, Siyu Yi, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju
 
   **Pattern Recognition**, minor revisions
 
-- MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data
+- [MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io/)
 
   **Lezhi Chen**\*, Jinghong Tang\*, Siyu Yi, Wei Zhang, Hengchuang Yin, Wei Liu, Yifan Wang, Jiancheng Lv, Wei Ju
 

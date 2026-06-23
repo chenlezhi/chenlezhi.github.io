@@ -67,8 +67,6 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 For my full publication list, see [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1txquubss9YC6mSqZTxRTKs6Dqaek7HyI8Ye-drv7KGg0fXsnkC1LSMJ8NNNNwtVjE2Oa9cAvX-tnf8xM3RSKs&user=SsG19rQAAAAJ).
 
-% # 💬 Invited Talks
-
 # 📚 Summer School
 
 - 2026.07: 定量生物学暑期培训班, 北京大学
@@ -79,4 +77,6 @@ For my full publication list, see [Google Scholar](https://scholar.google.com/ci
 
 # 🪴 Life outside the Lab
 
-我喜欢推galgame（喜欢剧情作，如景之海的艾佩里亚、装甲恶鬼村正），jrpg（喜欢由rpgmaker制作的重剧情的jrpg，如Demons Roots、阿尔米奥西翁的医术师）和看动漫（最喜欢路人女主的养成方法）。
+- galgame（喜欢剧情作，如景之海的艾佩里亚、装甲恶鬼村正）
+- jrpg（喜欢由rpgmaker制作的重剧情的jrpg，如Demons Roots、阿尔米奥西翁的医术师）
+- 动漫（最喜欢路人女主的养成方法）

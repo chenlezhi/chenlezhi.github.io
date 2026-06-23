@@ -19,13 +19,9 @@ redirect_from:
 
 # 🐾 About Me
 
-Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sichuan University. My research interests lie primarily on <span style="color:purple; font-weight:bold;">Computational Systems Biology</span> (recently focusing on single-cell spatiotemporal dynamics) and **Machine Learning** (primarily focusing on Generative Models, Graph Neural Networks). I'm also very interested in **Statistical Physics** (e.g. Complex Networks) and **Applied Mathematics** (e.g. Optimal Transport).
+Welcome! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sichuan University. My research interests lie primarily on **Computational Systems Biology** (recently focusing on single-cell spatiotemporal dynamics) and **Machine Learning** (primarily focusing on Generative Models, Graph Neural Networks). I am also very interested in drawing insights from Statistical Physics (e.g., Complex Networks) and Applied Mathematics (e.g., Optimal Transport) to gain a deeper understanding of living systems..
 
-欢迎来到我的主页！我是陈乐知，四川大学本科生，目前在北京大学定量生物学中心实习，在[周沛劼老师](https://cqb.pku.edu.cn/info/1002/2869.htm)的指导下进行单细胞时空动力学重建、最优传输相关研究。
-
-我的研究主要围绕生命这一十分有趣的复杂系统，从计算与理论两方面展开：在计算方面，我主要开发**机器学习**（如生成模型、图神经网络）算法来挖掘与分析大规模组学数据；在理论方面，我致力于从**统计物理**（如复杂网络）和**应用数学**（如最优传输）的视角来建模生命过程。我的目标是汲取这两方面的智慧，开展数据-机理融合的<span style="color:purple; font-weight:bold;">计算系统生物学</span>研究，探索胚胎发育与细胞命运决定背后的机理。
-
-日常生活中，我喜欢推galgame（喜欢剧情作，如景之海的艾佩里亚、装甲恶鬼村正），jrpg（喜欢由rpgmaker制作的重剧情的rpg，如Demons Roots、阿尔米奥西翁的医术师）和看动漫（最喜欢路人女主的养成方法）。
+欢迎来到我的主页！我是陈乐知，四川大学本科生，目前在北京大学定量生物学中心实习，在[周沛劼老师](https://cqb.pku.edu.cn/info/1002/2869.htm)的指导下进行单细胞时空动力学重建、最优传输相关研究。我的研究主要围绕生命这一十分有趣的复杂系统，从计算与理论两方面展开：在计算方面，我主要基于大规模组学数据开发**机器学习**算法（如生成模型、图神经网络），构建可操作的虚拟细胞来加速生命科学研究；在理论方面，我希望从统计物理（如复杂网络）和应用数学（如最优传输）的视角来建模特定生命过程。我的目标是汲取这两方面的智慧，开展数据-机理融合的**计算系统生物学**研究，探索胚胎发育与细胞命运决定背后的机理。
 
 Email: chenlezhi_scu@outlook.com
 
@@ -45,7 +41,7 @@ Email: chenlezhi_scu@outlook.com
 
 # 📝 Publications 
 
-Below are the selected publications that I was deeply involved in, you can feel my taste and find my growth path from these papers~
+Below are the selected publications that I was deeply involved in, you can feel my taste and find my growth path from these papers:)
 
 **2026**
 
@@ -80,3 +76,7 @@ For my full publication list, see [Google Scholar](https://scholar.google.com/ci
 - 2026.05: National Level, College Students' Innovative Entrepreneurial Training Plan Program (国家级大创)
 
 # 💬 Invited Talks
+
+# 🪴 Life outside the Lab
+
+我喜欢推galgame（喜欢剧情作，如景之海的艾佩里亚、装甲恶鬼村正），jrpg（喜欢由rpgmaker制作的重剧情的jrpg，如Demons Roots、阿尔米奥西翁的医术师）和看动漫（最喜欢路人女主的养成方法）。

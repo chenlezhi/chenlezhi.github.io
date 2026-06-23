@@ -67,6 +67,8 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 For my full publication list, see [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1txquubss9YC6mSqZTxRTKs6Dqaek7HyI8Ye-drv7KGg0fXsnkC1LSMJ8NNNNwtVjE2Oa9cAvX-tnf8xM3RSKs&user=SsG19rQAAAAJ).
 
+% # 💬 Invited Talks
+
 # 📚 Summer School
 
 - 2026.07: 定量生物学暑期培训班, 北京大学
@@ -74,8 +76,6 @@ For my full publication list, see [Google Scholar](https://scholar.google.com/ci
 # 🎖 Honors and Awards
 
 - 2026.05: National Level, College Students' Innovative Entrepreneurial Training Plan Program (国家级大创)
-
-# 💬 Invited Talks
 
 # 🪴 Life outside the Lab
 

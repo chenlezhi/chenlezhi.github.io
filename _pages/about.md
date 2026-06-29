@@ -59,7 +59,7 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
   **Pattern Recognition**, minor revisions
 
-- MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data
+- MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data
 
   **Lezhi Chen**\*, Jinghong Tang\*, Siyu Yi, Wei Zhang, Hengchuang Yin, Wei Liu, Yifan Wang, Jiancheng Lv, Wei Ju
 

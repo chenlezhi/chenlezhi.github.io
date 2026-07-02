@@ -21,18 +21,18 @@ redirect_from:
 
 Welcome to my homepage! I am Lezhi Chen (陈乐知), currently an undergraduate student at Sichuan University. My research interests lie primarily on <span style="color: #8E24AA;"><strong>Computational Systems Biology</strong></span> (focusing on single-cell spatiotemporal dynamics) and <span style="color: #8E24AA;"><strong>Machine Learning</strong></span> (focusing on Generative Models, Graph Neural Networks). I am also very interested in drawing insights from **Statistical Physics** (e.g., Complex Networks) and **Applied Mathematics** (e.g., Optimal Transport) to gain a deeper understanding of living systems and cell fate decision.
 
-欢迎来到我的主页！我是陈乐知，四川大学本科生，目前在北京大学定量生物学中心实习，在[周沛劼老师](https://cqb.pku.edu.cn/info/1002/2869.htm)的指导下进行单细胞时空动力学重建、最优传输相关研究。我的研究主要围绕生命这一十分有趣的复杂系统，从计算与理论两方面展开：在计算方面，我致力于开发**机器学习**算法（主要基于生成模型、图神经网络）来挖掘大规模组学数据，构建可操作的计算模型加速科学发现；在理论方面，我主要利用**统计物理**（如复杂网络）和**应用数学**（如最优传输）的工具来建模特定生命过程。我的目标是汲取这两方面的智慧，开展数据-机理融合的<span style="color: #8E24AA;"><strong>计算系统生物学</strong></span>研究，探索胚胎发育与细胞命运决定背后的机理。
+欢迎来到我的主页！我是陈乐知，四川大学本科生，目前在北京大学国际机器学习研究中心实习，在[周沛劼老师](https://cliffzhou92.github.io/)的指导下进行单细胞时空动力学重建、最优传输相关研究。我的研究主要围绕生命这一十分有趣的复杂系统，从计算与理论两方面展开：在计算方面，我致力于开发**机器学习**算法（主要基于生成模型、图神经网络）来挖掘大规模组学数据，构建可操作的计算模型加速科学发现；在理论方面，我主要利用**统计物理**（如复杂网络）和**应用数学**（如最优传输）的工具来建模特定生命过程。我的目标是汲取这两方面的智慧，开展数据-机理融合的<span style="color: #8E24AA;"><strong>计算系统生物学</strong></span>研究，探索胚胎发育与细胞命运决定背后的机理。
 
 Email: chenlezhi_scu@outlook.com
 
 # 📖 Educations
 
-- 2023.09 - 2027.06: B.E., College of Electrical Engineering, **Sichuan University**
+- 2023.09 - 2027.06: B.E. in Automation, College of Electrical Engineering, **Sichuan University**
 
 # 💻 Internships
 
-- 2026.01 - now: Center for Quantitative Biology, **Peking University**
-  - Supervisor: Prof. [Peijie Zhou](https://cqb.pku.edu.cn/info/1002/2869.htm)
+- 2026.01 - now: Center for Machine Learning Research, **Peking University**
+  - Supervisor: Prof. [Peijie Zhou](https://cliffzhou92.github.io/)
   - Research: Single-cell spatiotemporal dynamics
 
 - 2024.12 - 2026.02: School of Artificial Intelligence, **Sichuan University**

@@ -57,7 +57,7 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
   Jinghong Tang\*, **Lezhi Chen**\*, Siyu Yi, Wei Liu, Mingyang Li, Yifan Wang, Ziyue Qiao, Bin Guo, Xianggen Liu, Jiancheng Lv, Wei Ju
 
-  **Pattern Recognition**, minor revisions
+  Pattern Recognition, minor revisions
 
 - **MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data**
 

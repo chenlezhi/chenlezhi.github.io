@@ -49,7 +49,7 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
   Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou
 
-  **arXiv:2605.16529**, under review by NeurIPS
+  under review by NeurIPS
 
 **2025**
 

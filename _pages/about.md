@@ -79,4 +79,4 @@ For my full publication list, see [Google Scholar](https://scholar.google.com/ci
 
 - galgame（喜欢重剧情的长篇全价作，如景之海的艾佩里亚、装甲恶鬼村正、白色相簿2）
 - jrpg（喜欢由rpgmaker制作的重剧情的jrpg，如Demons Roots、阿尔米奥西翁的医术师）
-- 动漫/漫画/轻小说（喜好广泛，观感好就行，如路人女主的养成方法、物语系列、末日三问）
+- 动漫/漫画/轻小说（喜好广泛，如路人女主的养成方法、物语系列、末日三问、血界战线）

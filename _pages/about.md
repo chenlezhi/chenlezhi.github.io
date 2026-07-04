@@ -45,7 +45,7 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 **2026**
 
-- [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529)] [[Code](https://github.com/QiangweiPeng/MUST-FM)]
+- [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529) [[Code](https://github.com/QiangweiPeng/MUST-FM)]
 
   Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou
 

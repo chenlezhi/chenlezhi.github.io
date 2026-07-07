@@ -41,7 +41,7 @@ Email: chenlezhi_scu@outlook.com
 
 # 📝 Publications 
 
-Below are the selected publications that I was deeply involved in, you can feel my taste and find my growth path from these papers:)
+Below are the selected publications that I was deeply fond of, you can feel my taste and find my growth path from these papers:)
 
 **2026**
 

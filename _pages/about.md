@@ -45,12 +45,12 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 **2026**
 
-- [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529)
+- [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529) [[Code](https://github.com/QiangweiPeng/MUST-FM)]
 
   Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou
 
-  under review by NeurIPS [[Code](https://github.com/QiangweiPeng/MUST-FM)]
-
+  under review by NeurIPS
+  
 For my full publication list, see [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1txquubss9YC6mSqZTxRTKs6Dqaek7HyI8Ye-drv7KGg0fXsnkC1LSMJ8NNNNwtVjE2Oa9cAvX-tnf8xM3RSKs&user=SsG19rQAAAAJ).
 
 # 📚 Summer School

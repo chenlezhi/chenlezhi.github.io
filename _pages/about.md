@@ -27,7 +27,7 @@ Email: chenlezhi_scu@outlook.com
 
 # 📖 Educations
 
-- 2023.09 - 2027.06: B.E. in Automation, **Sichuan University**
+- 2023.09 - 2027.06: B.E. in College of Electrical Engineering, **Sichuan University**
 
 # 💻 Internships
 

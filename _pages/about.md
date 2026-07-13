@@ -19,9 +19,11 @@ redirect_from:
 
 # 🐾 About Me
 
-Welcome! I'm Lezhi Chen, currently an undergraduate student at Sichuan University. My research interests lie primaly on **Computational Biology** (single-cell dynamics) and **Machine Learning** (Generative Models, Graph Neural Networks). I'm also interested in drawing insights from **Statistical Physics** (e.g. Complex Networks) and **Applied Mathematics** (e.g. Optimal Transport) to gain a deeper understanding of living systems.
+Welcome! I'm Lezhi Chen, currently an undergraduate student at Sichuan University. 
 
-Email: chenlezhi_scu@outlook.com
+My research interests lie primaly on **Computational Biology** (single-cell dynamics) and **Machine Learning** (Generative Models, Graph Neural Networks). I'm also interested in drawing insights from **Statistical Physics** (e.g. Complex Networks) and **Applied Mathematics** (e.g. Optimal Transport) to gain a deeper understanding of living systems.
+
+**Email**: chenlezhi_scu@outlook.com
 
 # 📖 Educations
 

@@ -59,7 +59,7 @@ For my full publication list, see [Google Scholar](https://scholar.google.com/ci
 
 # 🎖 Honors and Awards
 
-- 2026.05: 国家级大学生创新训练计划
+- 2026.05: 国家级大创负责人
 
 # 🪴 Life outside the Lab
 

@@ -19,7 +19,7 @@ redirect_from:
 
 # 🐾 About Me
 
-Welcome to my homepage! I am Lezhi Chen (陈乐知), an undergraduate student at Sichuan University. My research interests lie on **Computational Biology** (recently on single-cell spatiotemporal dynamics) and **Machine Learning** (Generative Models, Graph Neural Networks). I am also interested in drawing insights from **Statistical Physics** (e.g. Complex Networks) and **Applied Mathematics** (e.g. Optimal Transport) to gain a deeper understanding of living systems.
+Welcome to my homepage! I am Lezhi Chen, an undergraduate student at Sichuan University. My research interests lie on **Computational Biology** (recently on single-cell spatiotemporal dynamics) and **Machine Learning** (Generative Models, Graph Neural Networks). I am also interested in drawing insights from **Statistical Physics** (e.g. Complex Networks) and **Applied Mathematics** (e.g. Optimal Transport) to gain a deeper understanding of living systems.
 
 欢迎来到我的主页！我是陈乐知，四川大学本科生，目前在北京大学国际机器学习研究中心实习，在[周沛劼老师](https://cliffzhou92.github.io/)的指导下进行单细胞时空动力学重建、最优传输相关研究。我主要围绕生命这一十分有趣的复杂系统，开展数据-机理融合的**计算生物学**研究：在计算方面，我主要开发**机器学习**算法（基于生成模型、图神经网络）挖掘大规模组学数据，构建可操作的计算模型加速科学发现；在理论方面，我主要应用**统计物理**（如复杂网络）和**应用数学**（如最优传输）的工具建模特定生命过程，探索发育与细胞命运决定背后的机理。
 

@@ -51,7 +51,7 @@ Below are the selected publications that I was deeply fond of, you can feel my t
 
 **2025**
 
-- MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data
+- MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data
 
   **Lezhi Chen**\*, Jinghong Tang\*, ..., Wei Ju
 

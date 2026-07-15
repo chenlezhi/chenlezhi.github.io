@@ -43,7 +43,7 @@ Below are the selected publications that I was deeply fond of, you can feel my t
 
 **2026**
 
-- [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529) [[Code](https://github.com/QiangweiPeng/MUST-FM)]
+- [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529) 
 
   Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou
 
@@ -53,7 +53,7 @@ Below are the selected publications that I was deeply fond of, you can feel my t
 
 - MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data
 
-  **Lezhi Chen**\*, Jinghong Tang\*, Siyu Yi, Wei Zhang, Hengchuang Yin, Wei Liu, Yifan Wang, Jiancheng Lv, Wei Ju
+  **Lezhi Chen**\*, Jinghong Tang\*, ..., Wei Ju
 
   under review by Bioinformatics
   
@@ -63,12 +63,8 @@ For my full publication list, see [Google Scholar](https://scholar.google.com/ci
 
 - 2026.07: 定量生物学暑期培训班, 北京大学
 
-# Honors and Awards
-
-- 2026.05: 国家级大创负责人
-
 # Life outside the Lab
 
 - galgame（喜欢重剧情的长篇全价作，如景之海的艾佩里亚、装甲恶鬼村正、白色相簿2）
-- jrpg（喜欢由rpgmaker制作的重剧情的jrpg，如Demons Roots、阿尔米奥西翁的医术师）
+- rpg（喜欢由rpgmaker制作的重剧情的rpg，如Demons Roots、阿尔米奥西翁的医术师）
 - 动漫/漫画/轻小说（喜好广泛，如路人女主的养成方法、物语系列、末日三问）

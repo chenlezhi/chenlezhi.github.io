@@ -48,6 +48,14 @@ Below are the selected publications that I was deeply fond of, you can feel my t
   Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou
 
   under review by NeurIPS
+
+**2025**
+
+- MOST: Modularity-guided Domain Identification of Spatial Transcriptomics Data
+
+  **Lezhi Chen**\*, Jinghong Tang\*, Siyu Yi, Wei Zhang, Hengchuang Yin, Wei Liu, Yifan Wang, Jiancheng Lv, Wei Ju
+
+  under review by Bioinformatics
   
 For my full publication list, see [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AEk_c1txquubss9YC6mSqZTxRTKs6Dqaek7HyI8Ye-drv7KGg0fXsnkC1LSMJ8NNNNwtVjE2Oa9cAvX-tnf8xM3RSKs&user=SsG19rQAAAAJ).
 

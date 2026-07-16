@@ -4,18 +4,17 @@ main:
     url: "/#about-me"
 
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Internships"
-    url: "/#-internships"
+    url: "/#publications"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Internships"
+    url: "/#internships"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Summer School"
+    url: "/#summer-school"
 
+  - title: "Life outside the Lab"
+    url: "/#life-outside-the-lab"
 

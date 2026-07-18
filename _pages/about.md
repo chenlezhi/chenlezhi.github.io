@@ -29,7 +29,7 @@ Email: chenlezhi_scu@outlook.com
 
 # Internships
 
-- 2026.01 - now: Center for Quantitative Biology, **Peking University**
+- 2026.01 - now: Center for Machine Learning Research, **Peking University**
   - Supervisor: Prof. [Peijie Zhou](https://cliffzhou92.github.io/)
   - Research: Single-cell spatiotemporal dynamics
 

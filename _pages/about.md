@@ -53,13 +53,13 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 - stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement
 
-  Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju
+  Jinghong Tang\*, **Lezhi Chen**\*, Siyu Yi, ..., Wei Ju
 
   *Pattern Recognition*
 
 - MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data
 
-  **Lezhi Chen**\*, Jinghong Tang\*, ..., Wei Ju
+  **Lezhi Chen**\*, Jinghong Tang\*, Siyu Yi, ..., Wei Ju
 
   under review by *Bioinformatics*
   

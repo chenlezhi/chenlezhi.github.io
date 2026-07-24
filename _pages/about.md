@@ -21,7 +21,7 @@ Welcome to my homepage! I'm Lezhi Chen (陈乐知), an undergraduate student at 
 
 My research interests lie primarily at the intersection between **Computational Biology** and **Machine Learning**. I'm committed to developing scalable, actionable computational methods that can accelerate scientific discovery. I'm also working on drawing insights from *Statistical Physics* (e.g. Complex Networks, Nonequilibrium Thermodynamics) and *Applied Mathematics* (e.g. Optimal Transport, Dynamical Modeling) to gain a deeper understanding of living systems.
 
-Email: chenlezhi_scu@outlook.com
+**Email**: chenlezhi_scu@outlook.com
 
 # Educations
 
@@ -35,7 +35,7 @@ Email: chenlezhi_scu@outlook.com
 
 # Publications 
 
-Below are the selected publications that I was deeply involved in, you can feel my taste and find my growth path from these papers~
+Below are the selected publications that I was deeply involved in, you can feel my taste and find my growth path from these papers:
 
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529), under review
 

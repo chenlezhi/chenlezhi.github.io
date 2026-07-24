@@ -29,9 +29,9 @@ My research interests lie primarily at the intersection between **Computational 
 
 # Internships
 
-- 2026.01 - now: Center for Machine Learning Research, **Peking University** (supervised by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
+- 2026.01 - now: Center for Machine Learning Research, **Peking University** (mentored by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
 
-- 2024.12 - 2026.02: School of Artificial Intelligence, **Sichuan University** (supervised by Prof. [Wei Ju](https://juweipku.github.io/))
+- 2024.12 - 2026.02: School of Artificial Intelligence, **Sichuan University** (mentored by Prof. [Wei Ju](https://juweipku.github.io/))
 
 # Publications 
 

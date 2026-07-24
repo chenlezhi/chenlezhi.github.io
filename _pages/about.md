@@ -39,7 +39,7 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529), under review
 
-- Jinghong Tang\*, **Lezhi Chen**\*, Siyu Yi, ..., Wei Ju, stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement, *Pattern Recognition* (2026)
+- Jinghong Tang\*, **Lezhi Chen**\*, Siyu Yi, ..., Wei Ju, [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://chenlezhi.github.io/), *Pattern Recognition* (2026)
 
 # Summer School
 
@@ -47,6 +47,6 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 # Life outside the Lab
 
-- galgame（喜欢重剧情的长篇全价作，如景之海的艾佩里亚、装甲恶鬼村正、白色相簿2）
+- galgame（喜欢重剧情的全价作，如景之海的艾佩里亚）
 - rpg（喜欢由rpgmaker制作的重剧情的rpg，如Demons Roots、阿尔米奥西翁的医术师）
 - 动漫/漫画/轻小说（喜好广泛，如路人女主的养成方法、物语系列、末日三问）

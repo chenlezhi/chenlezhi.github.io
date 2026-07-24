@@ -29,27 +29,17 @@ Email: chenlezhi_scu@outlook.com
 
 # Internships
 
-- 2026.01 - now: Center for Machine Learning Research, **Peking University**
-  - Supervisor: Prof. [Peijie Zhou](https://cliffzhou92.github.io/)
-  - Research: Single-cell spatiotemporal dynamics
+- 2026.01 - now: Center for Machine Learning Research, **Peking University** (supervised by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
 
-- 2024.12 - 2026.02: School of Artificial Intelligence, **Sichuan University**
-  - Supervisor: Prof. [Wei Ju](https://juweipku.github.io/)
-  - Research: Deep graph clustering
+- 2024.12 - 2026.02: School of Artificial Intelligence, **Sichuan University** (supervised by Prof. [Wei Ju](https://juweipku.github.io/))
 
 # Publications 
 
 Below are the selected publications that I was deeply involved in, you can feel my taste and find my growth path from these papers~
 
-**2026**
-
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529), under review
 
-**2025**
-
-- Jinghong Tang\*, **Lezhi Chen**\*, Siyu Yi, ..., Wei Ju, stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement, *Pattern Recognition*
-
-- **Lezhi Chen**\*, Jinghong Tang\*, Siyu Yi, ..., Wei Ju, MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data, under review
+- Jinghong Tang\*, **Lezhi Chen**\*, Siyu Yi, ..., Wei Ju, stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement, *Pattern Recognition* (2026)
 
 # Summer School
 

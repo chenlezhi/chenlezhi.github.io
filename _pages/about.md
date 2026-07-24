@@ -43,25 +43,13 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 **2026**
 
-- [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529) 
-
-  Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou
-
-  under review by *NeurIPS*
+- Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529), under review
 
 **2025**
 
-- stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement
+- Jinghong Tang\*, **Lezhi Chen**\*, Siyu Yi, ..., Wei Ju, stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement, *Pattern Recognition*
 
-  Jinghong Tang\*, **Lezhi Chen**\*, Siyu Yi, ..., Wei Ju
-
-  *Pattern Recognition*, minor revisions
-
-- MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data
-
-  **Lezhi Chen**\*, Jinghong Tang\*, Siyu Yi, ..., Wei Ju
-
-  under review by *Bioinformatics*
+- **Lezhi Chen**\*, Jinghong Tang\*, Siyu Yi, ..., Wei Ju, MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data, under review
 
 # Summer School
 

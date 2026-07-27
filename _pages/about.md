@@ -39,11 +39,11 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 2026
 
-- Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529), under review
+- [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529), Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, under review
 
 2025
 
-- Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju, [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://arxiv.org/abs/2605.16529), *Pattern Recognition*
+- [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://arxiv.org/abs/2605.16529), Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju, *Pattern Recognition*
   
 # Summer School
 

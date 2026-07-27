@@ -40,9 +40,7 @@ Below are the selected publications that I was deeply involved in, you can feel 
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529), under review
 
 - Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju, stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement, *Pattern Recognition* (2026)
-
-- **Lezhi Chen**\*, Jinghong Tang\*, ..., Wei Ju, MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data, under review
-
+  
 # Summer School
 
 - 2026.07: 定量生物学暑期培训班, 北京大学

@@ -51,6 +51,6 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 # Life outside the Lab
 
-- galgame（喜欢剧情作，如景之海的艾佩里亚、樱之诗、樱之刻、装甲恶鬼村正、壳之少女三部曲）
+- galgame（喜欢剧情作，如景之海的艾佩里亚、樱之诗、樱之刻、白色相簿2）
 - rpg（喜欢由 rpgmaker 制作的重剧情的 rpg，如 Demons Roots、阿尔米奥西翁的医术师）
 - 动漫/漫画/轻小说（喜好广泛，如路人女主的养成方法、物语系列、末日三问）

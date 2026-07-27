@@ -37,9 +37,13 @@ My research interests lie primarily at the intersection between **Computational 
 
 Below are the selected publications that I was deeply involved in, you can feel my taste and find my growth path from these papers:
 
+2026
+
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529), under review
 
-- Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju, stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement, *Pattern Recognition* (2026)
+2025
+
+- Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju, stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement, *Pattern Recognition*
   
 # Summer School
 

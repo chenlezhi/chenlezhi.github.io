@@ -43,7 +43,7 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 2025
 
-- Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju, stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement, *Pattern Recognition*
+- Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju, [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://arxiv.org/abs/2605.16529), *Pattern Recognition*
   
 # Summer School
 

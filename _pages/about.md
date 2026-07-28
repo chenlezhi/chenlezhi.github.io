@@ -25,7 +25,7 @@ My research interests lie primarily at the intersection between **Computational 
 
 # Educations
 
-- 2023.09 - 2027.06: B.E. in College of Electrical Engineering, **Sichuan University**
+- 2023.09 - 2027.06: B.E. in Automation, **Sichuan University**
 
 # Internships
 
@@ -43,7 +43,7 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 2025
 
-- [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://arxiv.org/abs/2605.16529), Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju, *Pattern Recognition*
+- [MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io), **Lezhi Chen**\*, Jinghong Tang\*, ..., Wei Ju, under review
   
 # Summer School
 

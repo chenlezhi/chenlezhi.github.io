@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my homepage! I'm Lezhi Chen (陈乐知), an undergraduate student at Sichuan University. 
 
-My research interests lie primarily in **Computational Science** and **Machine Learning**. I'm committed to developing scalable, actionable computational methods to accelerate scientific discovery. I'm also working on drawing insights from *Statistical Physics* (e.g. Complex Networks, Nonequilibrium Thermodynamics) and *Applied Mathematics* (e.g. Optimal Transport, Dynamical Modeling) to gain a deeper understanding of living systems.
+My research interests lie primarily in **Computational Science** and **Machine Learning**. I'm committed to developing scalable, actionable computational methods to accelerate scientific discovery. I'm also working on drawing insights from *Statistical Physics* (e.g. Complex Systems, Nonequilibrium Thermodynamics) and *Applied Mathematics* (e.g. Optimal Transport, Dynamical Modeling) to gain a deeper understanding of living systems.
 
 **Email**: chenlezhi_scu@outlook.com
 
@@ -44,12 +44,6 @@ Below are the selected publications that I was deeply involved in, you can feel 
 2025
 
 - [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://chenlezhi.github.io), Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju, *Pattern Recognition*
-
-- [MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io), **Lezhi Chen**\*, Jinghong Tang\*, ..., Wei Ju, under review
-  
-# Summer School
-
-- 2026.07: 定量生物学暑期培训班, 北京大学
 
 # Life outside the Lab
 

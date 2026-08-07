@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my homepage! I'm Lezhi Chen (陈乐知), an undergraduate student at Sichuan University. 
 
-My research interests lie primarily at the intersection between **computational biology** and **machine learning**, with a recent focus on *single-cell spatiotemporal dynamics*. I'm committed to developing scalable, actionable computational methods to accelerate scientific discovery, while also drawing on insights from *statistical physics* (e.g. complex systems, nonequilibrium thermodynamics) and *applied mathematics* (e.g. optimal transport, dynamical modeling) to gain a deeper understanding of living systems.
+My research interests lie primarily at the intersection between **computational biology** and **machine learning**, with a recent focus on *single-cell spatiotemporal dynamics*. I'm committed to developing scalable, actionable computational methods to accelerate scientific discovery, while also drawing on insights from *statistical physics* (e.g. complex networks, nonequilibrium thermodynamics) and *applied mathematics* (e.g. optimal transport, dynamical modeling) to gain a deeper understanding of living systems.
 
 **Email**: chenlezhi_scu@outlook.com
 

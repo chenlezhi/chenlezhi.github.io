@@ -25,10 +25,6 @@ My research interests lie primarily at the intersection between **computational 
 
 # Educations
 
-- 2029.09 - 2033.06: Ph.D in Data Science, **Peking University**
-
-- 2027.09 - 2029.06: M.S. in Applied Statistic, **Wuhan University**
-
 - 2023.09 - 2027.06: B.E. in Automation, **Sichuan University**
 
 # Internships

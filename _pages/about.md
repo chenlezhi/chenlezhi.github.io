@@ -25,13 +25,17 @@ My research interests lie primarily at the intersection between **computational 
 
 # Educations
 
-- 2023.09 - 2027.06: B.E. in College of Electrical Engineering, **Sichuan University**
+- 2029.09 - 2033.06: Ph.D in Data Science, **Peking University**
+
+- 2027.09 - 2029.06: M.S. in Applied Statistic, **Wuhan University**
+
+- 2023.09 - 2027.06: B.E. in Automation, **Sichuan University**
 
 # Internships
 
-- 2026.01 - now: Center for Machine Learning Research, **Peking University** (mentored by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
+- 2026.01 - now: Research Intern, Center for Machine Learning Research, **Peking University** (mentored by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
 
-- 2024.12 - 2026.02: School of Artificial Intelligence, **Sichuan University** (mentored by Prof. [Wei Ju](https://juweipku.github.io/))
+- 2024.12 - 2026.02: Research Intern, School of Artificial Intelligence, **Sichuan University** (mentored by Prof. [Wei Ju](https://juweipku.github.io/))
 
 # Publications 
 

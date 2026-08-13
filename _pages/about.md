@@ -47,8 +47,6 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 2025
 
-- [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://arxiv.org/abs/2605.16529), Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju, *Pattern Recognition*
-
 - [MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data](https://github.com/chenlezhi/MOST), **Lezhi Chen**, ..., Wei Ju, under review by ***Bioinformatics***
 
 # Life outside the Lab

@@ -33,6 +33,10 @@ My research interests lie primarily at the intersection between **complex system
 
 - 2024.12 - 2026.02: Research Intern, School of Artificial Intelligence, **Sichuan University** (mentored by Prof. [Wei Ju](https://juweipku.github.io/))
 
+# Summer School
+
+- 2026.07: Quantitative Biology Summer School, **Peking University**
+
 # Publications 
 
 Below are the selected publications that I was deeply involved in, you can feel my taste and find my growth path from these papers:

@@ -33,7 +33,7 @@ My research interests lie primarily at the intersection between **complex system
 
 - 2024.12 - 2026.02: Research Intern, School of Artificial Intelligence, **Sichuan University** (mentored by Prof. [Wei Ju](https://juweipku.github.io/))
 
-# Summer School
+# Experiences
 
 - 2026.07: Quantitative Biology Summer School, **Peking University**
 
@@ -49,7 +49,7 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 - [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://arxiv.org/abs/2605.16529), Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju, *Pattern Recognition*
 
-- [MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data](https://github.com/chenlezhi/MOST), **Lezhi Chen**, ..., Wei Ju, under review by *Bioinformatics*
+- [MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data](https://github.com/chenlezhi/MOST), **Lezhi Chen**, ..., Wei Ju, under review by ***Bioinformatics***
 
 # Life outside the Lab
 

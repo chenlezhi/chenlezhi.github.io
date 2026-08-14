@@ -25,17 +25,17 @@ My research interests lie primarily at the intersection between **living systems
 
 # Educations
 
-- 2023.09 - 2027.06: B.E. in Automation, **Sichuan University**
+- 2023.09 - 2027.06: B.E. in Automation, Sichuan University
 
 # Internships
 
-- 2026.01 - 2026.08: Research Intern, Center for Machine Learning Research, **Peking University** (mentored by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
+- 2026.01 - 2026.08: Research Intern, Center for Machine Learning Research, Peking University (mentored by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
 
-- 2024.12 - 2026.02: Research Intern, School of Artificial Intelligence, **Sichuan University** (mentored by Prof. [Wei Ju](https://juweipku.github.io/))
+- 2024.12 - 2026.02: Research Intern, School of Artificial Intelligence, Sichuan University (mentored by Prof. [Wei Ju](https://juweipku.github.io/))
 
 # Experiences
 
-- 2026.07: Quantitative Biology Summer School, **Peking University**
+- 2026.07: Quantitative Biology Summer School, Peking University
 
 # Publications 
 
@@ -47,7 +47,7 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 2025
 
-- [MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data](https://github.com/chenlezhi/MOST), **Lezhi Chen**, ..., Wei Ju, under review by ***Bioinformatics***
+- [MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data](https://github.com/chenlezhi/MOST), **Lezhi Chen**, ..., Wei Ju, under review by *Bioinformatics*
 
 # Life outside the Lab
 

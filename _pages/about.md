@@ -45,6 +45,12 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 - [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529), Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, under review by ***NeurIPS 2026***
 
+2025
+
+- [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://chenlezhi.github.io), Jinghong Tang\*, **Lezhi Chen**\*, et al., ***Pattern Recognition***
+
+- [MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io), **Lezhi Chen**\*, Jinghong Tang\*, et al., under review 
+
 # Life outside the Lab
 
 - galgame（喜欢剧情作，如景之海的艾佩里亚、樱之诗樱之刻、壳之少女三部曲）

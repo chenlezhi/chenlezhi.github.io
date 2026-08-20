@@ -47,6 +47,4 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 2025
 
-- [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://chenlezhi.github.io), Jinghong Tang\*, **Lezhi Chen**\*, et al., ***Pattern Recognition***
-
-- [MOST: Modularity-Guided Domain Identification of Spatial Transcriptomics Data](https://chenlezhi.github.io), **Lezhi Chen**\*, Jinghong Tang\*, et al., under review 
+- [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement]([https://chenlezhi.github.io](https://www.sciencedirect.com/science/article/pii/S0031320326015499)), Jinghong Tang\*, **Lezhi Chen**\*, et al., ***Pattern Recognition***

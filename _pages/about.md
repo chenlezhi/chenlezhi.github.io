@@ -19,7 +19,7 @@ redirect_from:
 
 I am Lezhi Chen (陈乐知), currently an undergraduate student at Sichuan University. 
 
-My research interests lie primarily in studying complex systems from a **hybrid modeling** perspective. I am committed to developing scalable, actionable computational methods, while also drawing on insights from statistical physics and applied mathematics (e.g. optimal transport, dynamical modeling) to gain a deeper understanding of living systems.
+My research interests lie primarily in studying complex systems from a **hybrid modeling** perspective. I am committed to developing scalable and actionable computational methods, while also drawing on insights from statistical physics and applied mathematics (e.g. optimal transport, dynamical modeling) to gain a deeper understanding of living systems.
 
 **Email**: chenlezhi_scu@outlook.com
 

@@ -107,3 +107,23 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* ============================================
+   电脑版字号调整（仅在大屏幕生效）
+   ============================================ */
+
+@include breakpoint($large) {
+  body {
+    font-size: 16px;  /* 正文基础字号，默认约14px */
+    line-height: 1.6;
+  }
+
+  h1 { font-size: 1.8em; }   /* 页面大标题 */
+  h2 { font-size: 1.5em; }   /* 模块标题，如 News、Publications */
+  h3 { font-size: 1.2em; }   /* 小标题 */
+  h4, h5, h6 { font-size: 1em; }
+  
+  .paper-box-text {
+    font-size: 0.95em;
+  }
+}

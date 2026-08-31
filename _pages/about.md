@@ -19,7 +19,7 @@ redirect_from:
 
 I am Lezhi Chen (陈乐知), currently an undergraduate student at Sichuan University. 
 
-My research interests center on hybrid modeling of complex systems. Especially, I am committed to developing scalable and actionable computational methods (primarily based on **machine learning**), while integrating insights from **statistical physics** (e.g. non-equilibrium thermodynamics) and **applied mathematics** (e.g. dynamical systems, stochastic models), to gain a deeper understanding of living systems.
+My research interests center on hybrid modeling of complex systems. Specifically, I am working on developing scalable and actionable computational methods (primarily based on **machine learning**), while integrating insights from **statistical physics** (e.g. nonequilibrium thermodynamics) and **applied mathematics** (e.g. dynamical systems, stochastic processes) to gain a deeper understanding of living systems.
 
 **Email**: chenlezhi_scu@outlook.com
 

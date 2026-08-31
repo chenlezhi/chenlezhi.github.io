@@ -19,7 +19,7 @@ redirect_from:
 
 I am Lezhi Chen (陈乐知), currently an undergraduate student at Sichuan University. 
 
-My research interests center on **hybrid modeling** of living systems (computational systems biology). I am committed to developing scalable and actionable computational methods (primarily based on machine learning), while integrating insights from statistical physics and applied mathematics (e.g. optimal transport, dynamical systems), to gain a deeper understanding of living systems.
+My research interests center on **hybrid modeling** of living systems (computational systems biology). Especially, I am committed to developing scalable and actionable computational methods (primarily based on machine learning), while integrating insights from statistical physics and applied mathematics (e.g. optimal transport, dynamical systems), to gain a deeper understanding of living systems.
 
 **Email**: chenlezhi_scu@outlook.com
 

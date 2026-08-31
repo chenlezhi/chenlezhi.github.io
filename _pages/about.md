@@ -19,7 +19,7 @@ redirect_from:
 
 I am Lezhi Chen (陈乐知), currently an undergraduate student at Sichuan University. 
 
-My research interests center on **hybrid modeling** of complex systems. I am committed to developing scalable and actionable computational methods (primarily based on machine learning), while integrating insights from statistical physics and applied mathematics (e.g. optimal transport, dynamical systems), to gain a deeper understanding of living systems.
+My research interests center on **hybrid modeling** of living systems (computational systems biology). I am committed to developing scalable and actionable computational methods (primarily based on machine learning), while integrating insights from statistical physics and applied mathematics (e.g. optimal transport, dynamical systems), to gain a deeper understanding of living systems.
 
 **Email**: chenlezhi_scu@outlook.com
 
@@ -43,8 +43,8 @@ Below are the selected publications that I was deeply involved in, you can feel 
 
 2026
 
-- [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529), Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, under review by *NeurIPS 2026*
+- [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529), Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, under review by ***NeurIPS 2026***
 
 2025
 
-- [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://www.sciencedirect.com/science/article/pii/S0031320326015499), Jinghong Tang\*, **Lezhi Chen**\*, et al., ***Pattern Recognition***
+- [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://www.sciencedirect.com/science/article/pii/S0031320326015499), Jinghong Tang\*, **Lezhi Chen**\*, et al., *Pattern Recognition*

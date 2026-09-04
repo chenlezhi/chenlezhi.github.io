@@ -35,7 +35,7 @@ My research interests center on hybrid modeling of complex systems. Specifically
 
 # Experiences
 
-- 2026.07: Summer school, Center for Quantitative Biology, Peking University
+- 2026.07: Summer School, Center for Quantitative Biology, Peking University
 
 # Publications 
 

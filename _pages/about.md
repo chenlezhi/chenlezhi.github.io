@@ -31,8 +31,6 @@ My research interests center on hybrid modeling of complex systems. Specifically
 
 - 2026.01 - 2026.08: Research Intern, Center for Machine Learning Research, Peking University (mentored by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
 
-- 2024.12 - 2026.01: Research Intern, School of Artificial Intelligence, Sichuan University (mentored by Prof. [Wei Ju](https://juweipku.github.io/))
-
 # Experiences
 
 - 2026.07: Summer School, Center for Quantitative Biology, Peking University
@@ -44,7 +42,3 @@ Below are the selected publications that I was deeply involved in, you can feel 
 2026
 
 - [Multiscale Supervised Unbalanced Optimal Transport Flow Matching](https://arxiv.org/abs/2605.16529), Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, under review by ***NeurIPS 2026***
-
-2025
-
-- [stHGNN: Deciphering Spatial Transcriptomics Data via Dual Hypergraph Learning Enhancement](https://www.sciencedirect.com/science/article/pii/S0031320326015499), Jinghong Tang\*, **Lezhi Chen**\*, et al., *Pattern Recognition*

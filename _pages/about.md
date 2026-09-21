@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Lezhi Chen (陈乐知), currently an undergraduate student at Sichuan University. 
+I am Lezhi Chen (陈乐知), an incoming Ph.D. student in the Center for Interdisciplinary Studies (CIS), Westlake University.
 
 My research interests center on hybrid modeling of complex systems. Specifically, I am working on developing scalable and actionable computational methods (primarily based on **machine learning**), while incorporating insights from **statistical physics** and **applied mathematics** (e.g. dynamical systems, stochastic processes) to gain a deeper understanding of living systems.
 

@@ -25,7 +25,7 @@ My research interests center on hybrid modeling of complex systems. Specifically
 
 # Educations
 
-- 2027.09 - Present: Ph.D. Candidate in Quantitative Biology and Complex Systems, Westlake University
+- 2027.09 - Present: Ph.D. Candidate in ‌Physics, Westlake University
 
 - 2023.09 - 2027.06: B.E. in Automation, Sichuan University
 

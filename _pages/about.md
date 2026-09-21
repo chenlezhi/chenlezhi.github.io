@@ -39,4 +39,4 @@ My research interests center on hybrid modeling of complex systems. Specifically
 
 Below are the selected publications that I particularly value, you can feel my taste and find my growth path from these papers:
 
-- Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, "Multiscale Supervised Unbalanced Optimal Transport Flow Matching", under review by ***NeurIPS*** (2026) ([paper](https://arxiv.org/abs/2605.16529)) ([code](https://github.com/QiangweiPeng/MUST-FM))
+- Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, "Multiscale Supervised Unbalanced Optimal Transport Flow Matching", under review by ***NeurIPS 2026*** ([paper](https://arxiv.org/abs/2605.16529)) ([code](https://github.com/QiangweiPeng/MUST-FM))

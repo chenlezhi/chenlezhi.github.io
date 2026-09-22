@@ -33,8 +33,6 @@ My research interests center on hybrid modeling of complex systems. Specifically
 
 - 2026.01 - Present: Research Intern, Center for Machine Learning Research, Peking University (mentored by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
 
-- 2025.01 - 2026.01: Research Intern, School of Artificial Intelligence, Sichuan University (mentored by Prof. [Wei Ju](https://juweipku.github.io/))
-
 # Publications 
 
 Below are the selected publications that I particularly value, you can feel my taste and find my growth path from these papers:

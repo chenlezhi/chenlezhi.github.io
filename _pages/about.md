@@ -42,4 +42,4 @@ Below are the selected publications that I particularly value, you can feel my t
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, "Multiscale Supervised Unbalanced Optimal Transport Flow Matching", ***NeurIPS 2026*** ([paper](https://arxiv.org/abs/2605.16529)) ([code](https://github.com/QiangweiPeng/MUST-FM))
 
 - Jinghong Tang\*, **Lezhi Chen**\*, Siyu Yi, ..., Wei Ju, "stHGNN: Deciphering spatial transcriptomics data via dual hypergraph 
-learning enhancement", *Pattern Recognition* (2026) ([paper](https://doi.org/10.1016/j.patcog.2026.114585))
+learning enhancement", *Pattern Recognition* (2026)

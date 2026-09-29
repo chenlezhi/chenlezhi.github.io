@@ -25,7 +25,7 @@ My research interests center on hybrid modeling of complex systems. In particula
 
 # Educations
 
-- 2027.09 - Present: Ph.D. Candidate in Quantitative Biology, Westlake University
+- 2027.09 - Present: Ph.D. Candidate in Quantitative Biology and Complex Systems, Westlake University
 
 - 2023.09 - 2027.06: B.E. in Automation, Sichuan University
 
@@ -33,12 +33,10 @@ My research interests center on hybrid modeling of complex systems. In particula
 
 - 2026.01 - Present: Research Intern, Center for Machine Learning Research, Peking University (mentored by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
 
-- 2025.01 - 2026.01: Research Intern, College of Computer Science, Sichuan University (mentored by Prof. Wei Ju)
+- 2025.01 - 2026.01: Intern, College of Computer Science, Sichuan University (mentored by Prof. Wei Ju)
 
 # Publications 
 
 Below are the selected publications that I particularly value, you can feel my taste and find my growth path from these papers:
 
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou, "Multiscale Supervised Unbalanced Optimal Transport Flow Matching", ***NeurIPS 2026*** ([paper](https://arxiv.org/abs/2605.16529)) ([code](https://github.com/QiangweiPeng/MUST-FM))
-
-- Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju, "stHGNN: Deciphering spatial transcriptomics data via dual hypergraph learning enhancement", *Pattern Recognition* (2026)

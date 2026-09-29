@@ -25,13 +25,15 @@ My research interests center on hybrid modeling of complex systems. In particula
 
 # Educations
 
-- 2027.09 - Present: Ph.D. Candidate in ‌Physics, Westlake University
+- 2027.09 - Present: Ph.D. Candidate in ‌Physics, **Westlake University**
 
-- 2023.09 - 2027.06: B.E. in Automation, Sichuan University
+- 2023.09 - 2027.06: B.E. in Automation, **Sichuan University**
 
 # Internships
 
-- 2026.01 - Present: Research Intern, Center for Machine Learning Research, Peking University (mentored by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
+- 2026.01 - Present: Research Intern, Center for Machine Learning Research and Center for Quantitative Biology, **Peking University** (mentored by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
+
+- 2025.01 - 2026.01: Research Intern, School of Artificial Intelligence and School of Mathematics, **Sichuan University** (mentored by Prof. Wei Ju, Siyu Yi and Wei Liu)
 
 # Publications 
 

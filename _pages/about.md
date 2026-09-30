@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Lezhi Chen (陈乐知), an incoming Ph.D. student at the Center for Interdisciplinary Studies (CIS), Westlake University, focusing on computational biology (cellular dynamics) and quantitative biology.
+I am Lezhi Chen (陈乐知), an incoming Ph.D. student at the Center for Interdisciplinary Studies (CIS), Westlake University, focusing on **computational biology** (cellular dynamics) and **quantitative biology**.
 
 My research interests center on hybrid modeling of complex systems. In particular, I am working on developing scalable and actionable computational methods (primarily based on **machine learning**), while incorporating insights from **statistical physics** and **applied mathematics** (e.g. dynamical systems, stochastic processes) to gain a deeper understanding of living systems.
 
@@ -45,7 +45,7 @@ Below are the selected publications that I particularly value, you can feel my t
 
 # Life out of the Lab
 
-- galgame: 喜欢重剧情重角色塑造的 galgame, 如恋狱月狂病, 景之海的艾佩里亚. 根据 galgame 剧情建立角色动力学也是一种与科研类似的乐趣hh
+- galgame: 喜欢重剧情重角色塑造的 galgame, 如恋狱月狂病, 景之海的艾佩里亚. 根据 galgame 剧情建立角色动力学也是一种与科研类似的乐趣
 
 - animation: 喜好广泛, 如路人女主的养成方法, 末日三问
 

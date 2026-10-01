@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Lezhi Chen (陈乐知), an incoming Ph.D. student at the Center for Interdisciplinary Studies (CIS), Westlake University, focusing on **computational biology** (cellular dynamics) and **quantitative biology**.
+I am Lezhi Chen (陈乐知), an incoming Ph.D. student at the Center for Interdisciplinary Studies (CIS), Westlake University, focusing on **computational biology** (cellular dynamics).
 
 My research interests center on hybrid modeling of complex systems. In particular, I am working on developing scalable and actionable computational methods (primarily based on **machine learning**), while incorporating insights from **statistical physics** and **applied mathematics** to gain a deeper understanding of living systems.
 
@@ -25,7 +25,7 @@ My research interests center on hybrid modeling of complex systems. In particula
 
 # Educations
 
-- 2027.09 - Present: Ph.D. Candidate in Physics, Westlake University
+- 2027.09 - Present: Ph.D. Candidate in Quantitative Biology and Complex Systems, Westlake University
 
 - 2023.09 - 2027.06: B.E. in Automation, Sichuan University
 

@@ -45,8 +45,8 @@ Below are the selected publications that I particularly value, you can feel my t
 
 # Life out of the Lab
 
-- galgame: 喜欢重剧情重角色塑造的 galgame, 如恋狱月狂病, 景之海的艾佩里亚. 根据 galgame 剧情建立角色动力学也是一种与科研类似的乐趣
+- galgame: 喜欢重剧情重角色塑造的 galgame, 如恋狱月狂病, 景之海的艾佩里亚
 
 - animation: 喜好广泛, 如路人女主的养成方法, 末日三问
 
-- rpg: 喜欢由 rpgmaker 制作的重剧情的 jrpg, 如 Demons Roots, 阿尔米奥西翁的医术师. 也喜欢国内骨钉工作室出品的 rpg, 如犹格索托斯的庭院, 黎明门前的吹笛人
+- rpg: 喜欢由 rpgmaker 制作的重剧情的 jrpg, 如 Demons Roots, 阿尔米奥西翁的医术师

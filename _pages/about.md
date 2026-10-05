@@ -23,7 +23,7 @@ My research interests center on hybrid modeling of living systems. I am working 
 
 - **the theory and computation of cellular dynamics**: ‌Richard Feynman said, "What I cannot create, I do not understand". I am dedicated to‌ reconstructing cellular dynamics from spatiotemporal single-cell data, with the goal of uncovering the principles that governing embryo development, perturbation response and cell fate decision.
 
-- Beyond living systems, I am also interested in more general complex systems with rich dynamical behavior and significant real-world impact, such as financial systems.
+- Beyond living systems, I am also interested in other complex systems with significant real-world impact, such as financial systems.
 
 **Email**: chenlezhi_scu@outlook.com.
 

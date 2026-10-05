@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Lezhi Chen (陈乐知), an incoming Ph.D. student at the Center for Interdisciplinary Studies (CIS), Westlake University, currently focusing on the theory and computation of cellular dynamics.
+I am Lezhi Chen (陈乐知), an incoming Ph.D. student at the Center for Interdisciplinary Studies (CIS), Westlake University.
 
-My research interests center on hybrid modeling of complex systems. Specifically, I am working on developing scalable and predictable computational methods (primarily based on **machine learning**), while incorporating the wisdom of **statistical physics** and **applied mathematics**, to gain a deeper understanding of cellular dynamics.
+My research interests center on hybrid modeling of complex systems. I am working on drawing on insights from **statistical physics** and **applied mathematics** to formulate scientific questions in real-world complex systems, then developing scalable and predictive computational methods (primarily based on **machine learning**) to gain a deeper understanding of them. Specifically, I focus on the following topics:
+
+- the theory and computation of cellular dynamics
+
+- hybrid modeling of more general complex systems
 
 **Email**: chenlezhi_scu@outlook.com
 

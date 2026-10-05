@@ -19,7 +19,7 @@ redirect_from:
 
 I am Lezhi Chen (陈乐知), an incoming Ph.D. student at the Center for Interdisciplinary Studies (CIS), Westlake University.
 
-My research interests center on hybrid modeling of complex systems. I am working on drawing on insights from **statistical physics** and **applied mathematics** to formulate scientific questions in real-world complex systems, then developing scalable and predictive computational methods (primarily based on **machine learning**) to gain a deeper understanding of them. Specifically, I focus on the following topics:
+My research interests center on hybrid modeling of complex systems. I am working on drawing on insights from **statistical physics** and **applied mathematics** to formulate scientific questions in real-world complex systems, and then developing scalable and predictive computational methods (primarily based on **machine learning**) to gain a deeper understanding of them. Specifically, I focus on the following topics:
 
 - the theory and computation of cellular dynamics
 

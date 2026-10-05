@@ -25,7 +25,7 @@ My research interests center on hybrid modeling of living systems. I am working 
 
 - Beyond living systems, I am also interested in other complex systems with significant real-world impact, such as financial systems.
 
-**Email**: chenlezhi_scu@outlook.com.
+**Email**: chenlezhi_scu@outlook.com
 
 # Education
 

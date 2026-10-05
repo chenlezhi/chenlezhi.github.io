@@ -25,6 +25,8 @@ My research interests center on hybrid modeling of complex systems. I am working
 
 - hybrid modeling of more general complex systems
 
+If you are interested in academic collaboration, please feel free to email me.
+
 **Email**: chenlezhi_scu@outlook.com
 
 # Education

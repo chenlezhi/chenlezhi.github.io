@@ -21,13 +21,11 @@ I am Lezhi Chen (陈乐知), an incoming Ph.D. student at the Center for Interdi
 
 My research interests center on hybrid modeling of complex systems. I am working on drawing on insights from **statistical physics** and **applied mathematics** to formulate scientific questions in real-world complex systems, and then developing scalable and predictive computational methods (primarily based on **machine learning**) to gain a deeper understanding of them. Specifically, I focus on the following topics:
 
-- the theory and computation of cellular dynamics
+- **the theory and computation of cellular dynamics**: ‌Richard Feynman said, "What I cannot create, I do not understand". I am dedicated to‌ reconstructing cellular dynamics from spatiotemporal single-cell data, with the goal of uncovering the principles that governing cell fate decisions.
 
-- hybrid modeling of more general complex systems
+- **hybrid modeling of complex systems**: Beyond living systems, I am also interested in other complex systems with rich dynamical behavior and significant real-world impact, such as financial systems.
 
-If you are interested in academic collaboration, please feel free to email me.
-
-**Email**: chenlezhi_scu@outlook.com
+If you are interested in academic collaboration, please feel free to email me at chenlezhi_scu@outlook.com.
 
 # Education
 

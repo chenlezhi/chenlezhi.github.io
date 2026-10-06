@@ -31,7 +31,7 @@ My research interests center on hybrid modeling of living systems. I am working 
 
 - 2027.09 - Present: Ph.D. Candidate in Quantitative Biology and Complex Systems, Westlake University
 
-- 2023.09 - 2027.06: B.E. in Automation, Sichuan University
+- 2023.09 - 2027.06: B.E. in Electrical Engineering, Sichuan University
 
 # Internships
 

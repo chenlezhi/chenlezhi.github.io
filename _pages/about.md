@@ -21,7 +21,7 @@ I am Lezhi Chen (陈乐知), an incoming Ph.D. student at the Center for Interdi
 
 My research interests center on quantitative biology. I am working on developing scalable and predictive computational methods (primarily based on **machine learning**), while incorporating the wisdom of **statistical physics** and **applied mathematics**, to gain a deeper understanding of the phenomena and dynamics in living systems. Specifically, I focus on the following topics:
 
-- **theory and computation of cellular dynamics**: ‌Richard Feynman said, "What I cannot create, I do not understand". I am dedicated to‌ reconstructing cellular dynamics from a hybrid modeling perspective, with the goal of uncovering the principles governing developmental process, perturbation response, and cell-fate decision.
+- **theory and computation of cellular dynamics**: ‌Richard Feynman said, "What I cannot create, I do not understand". I am dedicated to‌ reconstructing cellular dynamics from a hybrid modeling perspective, with the goal of uncovering the principles governing developmental process, perturbation response, and cell fate decision.
 
 **Email**: chenlezhi_scu@outlook.com
 

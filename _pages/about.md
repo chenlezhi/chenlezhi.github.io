@@ -23,8 +23,6 @@ My research interests center on quantitative biology. I am working on developing
 
 - **theory and computation of cellular dynamics**: ‌Richard Feynman said, "What I cannot create, I do not understand". I am dedicated to‌ reconstructing cellular dynamics from a hybrid modeling perspective, with the goal of uncovering the principles governing developmental process, perturbation response, and cell-fate decision.
 
-- **autonomous closed-loop validation platforms**: To move beyond correlations toward causal understanding, I am interested in developing autonomous experimental platforms that iteratively propose testable hypotheses, perform targeted perturbations, and feed the resulting measurements back into computational models, achieving closed-loop validation.
-
 **Email**: chenlezhi_scu@outlook.com
 
 # Education

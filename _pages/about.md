@@ -44,11 +44,3 @@ Below are the selected publications that I particularly value, you can feel my t
 # Experiences
 
 - 2026 Summer: Quantitative Biology Summer School, Peking University
-
-# Life out of the Lab
-
-- galgame: 喜欢重剧情重角色塑造的 galgame, 如恋狱月狂病, 景之海的艾佩里亚
-
-- animation: 喜好广泛, 如路人女主的养成方法, 末日三问
-
-- rpg: 喜欢由 rpgmaker 制作的重剧情的 rpg, 如 Demons Roots, 阿尔米奥西翁的医术师, 月计三部曲

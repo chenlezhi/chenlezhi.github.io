@@ -41,8 +41,6 @@ Below are the selected publications that I deeply involved in, you can feel my t
 
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou. "Multiscale Supervised Unbalanced Optimal Transport Flow Matching", ***NeurIPS 2026*** ([paper](https://arxiv.org/abs/2605.16529)) ([code](https://github.com/QiangweiPeng/MUST-FM))
 
-- **Lezhi Chen**\*, Jinghong Tang\*, ..., Wei Ju. "Modularity-Guided Domain Identification of Spatial Transcriptomics Data", submitted to *IEEE Transactions on Knowledge and Data Engineering* (2025)
-
 # Experiences
 
 - 2026 Summer: Quantitative Biology Summer School, Peking University

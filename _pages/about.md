@@ -41,10 +41,6 @@ Below are the selected publications, you can feel my taste and find my growth pa
 
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou. "Multiscale Supervised Unbalanced Optimal Transport Flow Matching", ***NeurIPS 2026*** ([paper](https://arxiv.org/abs/2605.16529)) ([code](https://github.com/QiangweiPeng/MUST-FM))
 
-- Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju. "stHGNN: Deciphering spatial transcriptomics data via dual hypergraph learning enhancement", *Pattern Recognition* (2026) ([paper](https://doi.org/10.1016/j.patcog.2026.114585))
-
-- **Lezhi Chen**\*, Jinghong Tang\*, ..., Wei Ju. "Modularity-Guided Domain Identification of Spatial Transcriptomics Data", under review (2025)
-
 # Experiences
 
 - 2026 Summer: Quantitative Biology Summer School, Peking University

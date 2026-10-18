@@ -31,7 +31,7 @@ I am working on developing scalable and reliable computational methods (primaril
 
 - 2023.09 - 2027.06: B.E. in Electrical Engineering, Sichuan University (mentor: Prof. [Wei Ju](https://juweipku.github.io/))
 
-# Internship
+# Internships
 
 - 2026.01 - Present: Research Intern, Center for Machine Learning Research, Peking University (mentor: Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
 

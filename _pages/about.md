@@ -27,13 +27,13 @@ I am working on developing scalable and reliable computational methods (primaril
 
 # Education
 
-- 2027.09 - Present: Ph.D. Candidate in Quantitative Biology and Complex Systems, Westlake University
+- 2027.09 - Present: Ph.D. Candidate in Quantitative Biology and Complex Systems, Westlake University (advisor: Prof. [Zuwan Lin](https://linzw14.github.io/))
 
-- 2023.09 - 2027.06: B.E. in Electrical Engineering, Sichuan University
+- 2023.09 - 2027.06: B.E. in Electrical Engineering, Sichuan University (mentor: Prof. [Wei Ju])
 
 # Internships
 
-- 2026.01 - Present: Research Intern, Center for Machine Learning Research, Peking University (mentored by Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
+- 2026.01 - Present: Research Intern, Center for Machine Learning Research, Peking University (mentor: Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
 
 # Publications 
 

@@ -31,7 +31,7 @@ I am working on developing scalable and reliable computational methods (primaril
 
 - 2023.09 - 2027.06: B.E. in Electrical Engineering, Sichuan University (mentor: Prof. [Wei Ju](https://juweipku.github.io/))
 
-# Internships
+# Internship
 
 - 2026.01 - Present: Research Intern, Center for Machine Learning Research, Peking University (mentor: Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
 
@@ -41,6 +41,6 @@ Below are the selected publications, you can feel my taste and find my growth pa
 
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou. "Multiscale Supervised Unbalanced Optimal Transport Flow Matching", ***NeurIPS 2026*** ([paper](https://arxiv.org/abs/2605.16529)) ([code](https://github.com/QiangweiPeng/MUST-FM))
 
-# Experiences
+# Experience
 
 - 2026 Summer: Quantitative Biology Summer School, Peking University

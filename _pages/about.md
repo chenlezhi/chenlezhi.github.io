@@ -51,7 +51,7 @@ Below are the remaining publications I have contributed to:
 
 - Wei Zhang, Siyu Yi, **Lezhi Chen**, ..., Wei Ju. "Evidence-Aware Integration and Domain Identification of Spatial Transcriptomics Data", *AAAI 2026*
 
-- **Lezhi Chen**\*, Jinghong Tang\*, ..., Wei Ju. "Modularity-Guided Domain Identification of Spatial Transcriptomics Data", submitted to *IEEE Transactions on Knowledge and Data Engineering* (2025)
+- **Lezhi Chen**\*, ..., Wei Ju. "Modularity-Guided Domain Identification of Spatial Transcriptomics Data", submitted to *IEEE Transactions on Knowledge and Data Engineering* (2025)
 
 # Experience
 

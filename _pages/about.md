@@ -35,13 +35,15 @@ I am working on developing scalable and reliable computational methods (primaril
 
 - 2026.01 - Present: Research Intern, Center for Machine Learning Research, Peking University (mentor: Prof. [Peijie Zhou](https://cliffzhou92.github.io/))
 
-# Publications 
+# Selected Publications 
 
 Below are the selected publications, you can feel my taste and find my growth path from these papers:
 
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou. "Multiscale Supervised Unbalanced Optimal Transport Flow Matching", ***NeurIPS 2026*** ([paper](https://arxiv.org/abs/2605.16529)) ([code](https://github.com/QiangweiPeng/MUST-FM))
 
-Below are other publications I have contributed to:
+# Full Publications
+
+Below are the remaining publications I have contributed to:
 
 - Chang Liu\*, Jinghong Tang\*, **Lezhi Chen**, ..., Wei Ju. "stMRPC: Decoding Spatial Transcriptomics with Multimodal Rebalancing and Perspective-aware Clustering", *ACM MM 2026*
 

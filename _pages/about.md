@@ -41,7 +41,7 @@ Below are the selected publications, you can feel my taste and find my growth pa
 
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou. "Multiscale Supervised Unbalanced Optimal Transport Flow Matching", ***NeurIPS 2026*** ([paper](https://arxiv.org/abs/2605.16529)) ([code](https://github.com/QiangweiPeng/MUST-FM))
 
-Below are the other publications that I involved in:
+Below are other publications I have contributed to:
 
 - Chang Liu\*, Jinghong Tang\*, **Lezhi Chen**, ..., Wei Ju. "stMRPC: Decoding Spatial Transcriptomics with Multimodal Rebalancing and Perspective-aware Clustering", *ACM MM 2026*
 

@@ -41,16 +41,6 @@ Below are the selected publications, you can feel my taste and find my growth pa
 
 - Qiangwei Peng\*, **Lezhi Chen**\*, Peijie Zhou. "Multiscale Supervised Unbalanced Optimal Transport Flow Matching", ***NeurIPS 2026*** ([paper](https://arxiv.org/abs/2605.16529)) ([code](https://github.com/QiangweiPeng/MUST-FM))
 
-# Full Publications
-
-Below are the remaining publications I have contributed to:
-
-- Chang Liu\*, Jinghong Tang\*, **Lezhi Chen**, ..., Wei Ju. "stMRPC: Decoding Spatial Transcriptomics with Multimodal Rebalancing and Perspective-aware Clustering", *ACM MM 2026*
-
-- Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju. "stHGNN: Deciphering spatial transcriptomics data via dual hypergraph learning enhancement", *Pattern Recognition* (2026)
-
-- Wei Zhang, Siyu Yi, **Lezhi Chen**, ..., Wei Ju. "Evidence-Aware Integration and Domain Identification of Spatial Transcriptomics Data", *AAAI 2026*
-
 - **Lezhi Chen**\*, ..., Wei Ju. "Modularity-Guided Domain Identification of Spatial Transcriptomics Data", submitted to *IEEE Transactions on Knowledge and Data Engineering* (2025)
 
 # Experience

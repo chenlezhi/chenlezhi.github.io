@@ -47,9 +47,9 @@ Below are other publications I have contributed to:
 
 - Jinghong Tang\*, **Lezhi Chen**\*, ..., Wei Ju. "stHGNN: Deciphering spatial transcriptomics data via dual hypergraph learning enhancement", *Pattern Recognition* (2026)
 
-- **Lezhi Chen**\*, Jinghong Tang\*, ..., Wei Ju. "Modularity-Guided Domain Identification of Spatial Transcriptomics Data", submitted
-
 - Wei Zhang, Siyu Yi, **Lezhi Chen**, ..., Wei Ju. "Evidence-Aware Integration and Domain Identification of Spatial Transcriptomics Data", *AAAI 2026*
+
+- **Lezhi Chen**\*, Jinghong Tang\*, ..., Wei Ju. "Modularity-Guided Domain Identification of Spatial Transcriptomics Data", submitted to *IEEE Transactions on Knowledge and Data Engineering* (2025)
 
 # Experience
 

@@ -27,7 +27,7 @@ I am working on developing scalable and reliable computational methods (primaril
 
 # Education
 
-- 2027.09 - Present: Ph.D. Candidate, Quantitative Biology and Complex Systems, Westlake University (advisor: Prof. [Zuwan Lin](https://linzw14.github.io/))
+- 2027.09 - Present: Ph.D. Student, Quantitative Biology and Complex Systems, Westlake University (advisor: Prof. [Zuwan Lin](https://linzw14.github.io/))
 
 - 2023.09 - 2027.06: B.E., Automation, Sichuan University
 
